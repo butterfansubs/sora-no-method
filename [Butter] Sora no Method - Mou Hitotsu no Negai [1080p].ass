@@ -36,7 +36,7 @@ Style: Signs,Iwata Mincho Old Pro-Fate,23,&H00FFFFFF,&H000019FF,&H00000000,&H000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/kitakubu
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/sora-no-method
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
 Dialogue: 10,0:00:47.15,0:00:49.71,Sora-Main,Carol,0,0,0,,I'm heading out soon.
