@@ -39,7 +39,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta =======================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/sora-no-method
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
-Dialogue: 10,0:00:47.15,0:00:49.71,Sora-Main,Carol,0,0,0,,I'm heading out soon.
+Dialogue: 10,0:00:47.15,0:00:49.71,Sora-Main,Carol,0,0,0,,I, Carol, will be heading out soon.
 Dialogue: 10,0:00:50.40,0:00:53.03,Sora-Main,Carol,0,0,0,,Wait for me, Noel.
 Dialogue: 10,0:02:40.13,0:02:40.98,Sora-Main,Nonoka,0,0,0,,There.
 Dialogue: 10,0:02:48.84,0:02:49.85,Sora-Main,Nonoka,0,0,0,,I'm off!
@@ -165,7 +165,7 @@ Dialogue: 10,0:09:57.90,0:09:59.99,Sora-Main,Carol,0,0,0,,Y-You're wrong!
 Dialogue: 10,0:10:01.90,0:10:03.24,Sora-Main,Carol,0,0,0,,My name is Carol.
 Dialogue: 10,0:10:03.45,0:10:05.33,Sora-Main,Carol,0,0,0,,I'm a disc, like Noel.
 Dialogue: 10,0:10:05.84,0:10:06.71,Sora-Main,Nonoka,0,0,0,,A disc?
-Dialogue: 10,0:10:07.17,0:10:09.08,Sora-Main,Carol,0,0,0,,I came to bring Noel back.
+Dialogue: 10,0:10:07.17,0:10:09.08,Sora-Main,Carol,0,0,0,,I came to bring her back.
 Dialogue: 10,0:10:10.67,0:10:11.83,Sora-Main,Nonoka,0,0,0,,But...
 Dialogue: 10,0:10:11.83,0:10:12.84,Sora-Main,Noel,0,0,0,,I want...
 Dialogue: 10,0:10:14.59,0:10:18.97,Sora-Main,Noel,0,0,0,,I want to be with Nonoka\Nand everyone else, too!
@@ -256,7 +256,7 @@ Dialogue: 10,0:14:52.62,0:14:53.53,Sora-Main,Noel,0,0,0,,But...
 Dialogue: 10,0:14:57.50,0:15:00.29,Sora-Main,Nonoka,0,0,0,,This is about the wishes Noel granted for us, right?
 Dialogue: 10,0:15:01.25,0:15:05.50,Sora-Main,Nonoka,0,0,0,ED,Noel's smile... if she isn't happy,\Nshe can't grant wishes. {TN: alternatively, "Noel's smile... if she isn't happy, it would be unbearable."}
 Dialogue: 10,0:15:06.88,0:15:08.48,Sora-Main,Carol,0,0,0,,I don't get it at all.
-Dialogue: 10,0:15:09.13,0:15:10.88,Sora-Main,Nonoka,0,0,0,,Then, Noel's disc...
+Dialogue: 10,0:15:09.13,0:15:10.88,Sora-Main,Nonoka,0,0,0,,Then, her disc...
 Dialogue: 10,0:15:10.88,0:15:13.60,Sora-Main,Carol,0,0,0,,What are you saying? I don't understand any of it!
 Dialogue: 10,0:15:13.60,0:15:15.24,Sora-Main,Yuzuki,0,0,0,,Hey, get back here!
 Dialogue: 10,0:15:14.97,0:15:16.42,Sora-Main,Koharu,0,0,0,,Dear customer...
@@ -344,21 +344,21 @@ Dialogue: 10,0:24:00.08,0:24:00.87,Sora-Alt,Noel,0,0,0,,{\an2}Carol.
 Dialogue: 10,0:24:02.50,0:24:03.54,Sora-Main,Carol,0,0,0,,Noel!
 Dialogue: 10,0:24:03.75,0:24:06.25,Sora-Main,Noel,0,0,0,,I came to invite you, Carol.
 Dialogue: 10,0:24:08.25,0:24:09.88,Sora-Main,Noel,0,0,0,,Let's go together!
-Dialogue: 10,0:24:10.92,0:24:12.09,Sora-Main,Noel,0,0,0,,Don't worry.
-Dialogue: 10,0:24:12.09,0:24:14.64,Sora-Main,Noel,0,0,0,,Today is Noel's birthday...
-Dialogue: 10,0:24:24.40,0:24:26.36,Sora-Main,Noel,0,0,0,,...and Carol's, too!
-Dialogue: 10,0:24:28.23,0:24:29.98,Sora-Main,Noel,0,0,0,ED,Noel thought
-Dialogue: 10,0:24:30.23,0:24:33.11,Sora-Main,Noel,0,0,0,ED,that when Carol came to this town,
+Dialogue: 10,0:24:10.92,0:24:12.09,Sora-Main,Noel,0,0,0,ED,Don't worry.
+Dialogue: 10,0:24:12.09,0:24:14.64,Sora-Main,Noel,0,0,0,,Today is my birthday...
+Dialogue: 10,0:24:24.40,0:24:26.36,Sora-Main,Noel,0,0,0,,...and yours, too!
+Dialogue: 10,0:24:28.23,0:24:29.98,Sora-Main,Noel,0,0,0,ED,I thought
+Dialogue: 10,0:24:30.23,0:24:33.11,Sora-Main,Noel,0,0,0,ED,that when you came to this town,
 Dialogue: 10,0:24:33.11,0:24:34.58,Sora-Main,Noel,0,0,0,ED,that just maybe...
 Dialogue: 10,0:24:37.49,0:24:38.66,Sora-Main,Carol,0,0,0,,Mr. Disc?
 Dialogue: 10,0:24:46.06,0:24:47.71,Sora-Main,Carol,0,0,0,,My disc...
 Dialogue: 10,0:24:49.00,0:24:51.13,Sora-Main,Carol,0,0,0,,My disc's power has returned!
 Dialogue: 10,0:24:56.02,0:24:56.89,Sora-Main,Carol,0,0,0,,What?
 Dialogue: 10,0:24:59.56,0:25:00.56,Sora-Main,Carol,0,0,0,,Noel?
-Dialogue: 10,0:25:01.06,0:25:03.06,Sora-Main,Noel,0,0,0,,It looks like Noel was called.
+Dialogue: 10,0:25:01.06,0:25:03.06,Sora-Main,Noel,0,0,0,,It looks like I was called.
 Dialogue: 10,0:25:03.06,0:25:04.35,Sora-Main,Noel,0,0,0,,Called to the disc.
 Dialogue: 10,0:25:05.10,0:25:06.73,Sora-Main,Carol,0,0,0,,That can't... but...
-Dialogue: 10,0:25:06.73,0:25:08.69,Sora-Main,Carol,0,0,0,,Why is Noel—
+Dialogue: 10,0:25:06.73,0:25:08.69,Sora-Main,Carol,0,0,0,,Why are you—
 Dialogue: 10,0:25:09.22,0:25:09.98,Sora-Main,Carol,0,0,0,,No way...
 Dialogue: 10,0:25:14.09,0:25:16.03,Sora-Main,Carol,0,0,0,,No! You can't go!
 Dialogue: 10,0:25:21.45,0:25:22.70,Sora-Main,Carol,0,0,0,,It's all my fault.
@@ -367,7 +367,7 @@ Dialogue: 10,0:25:25.93,0:25:26.83,Sora-Main,Noel,0,0,0,,Carol.
 Dialogue: 10,0:25:28.71,0:25:30.34,Sora-Main,Noel,0,0,0,,Cheer up.
 Dialogue: 10,0:25:31.98,0:25:32.92,Sora-Main,Noel,0,0,0,ED,Because...
 Dialogue: 10,0:25:32.92,0:25:34.09,Sora-Main,Noel,0,0,0,ED,... I understand...
-Dialogue: 10,0:25:34.84,0:25:37.26,Sora-Main,Noel,0,0,0,ED,... that Carol came to this town...
+Dialogue: 10,0:25:34.84,0:25:37.26,Sora-Main,Noel,0,0,0,ED,... that you came to this town...
 Dialogue: 10,0:25:37.26,0:25:40.85,Sora-Main,Noel,0,0,0,ED,... to make my wish come true!
 Dialogue: 10,0:25:43.82,0:25:46.27,Sora-Main,Carol,0,0,0,,{\fad(0,476)}The wish that Noel made!
 Dialogue: 10,0:25:50.36,0:25:54.11,Sora-Main,Carol,0,0,0,,{\fad(522,475)}Mr. Disc, Mr. Disc, please grant my wish!
