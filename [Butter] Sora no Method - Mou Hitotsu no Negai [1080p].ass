@@ -637,8 +637,10 @@ Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1151.999,948)\fnCabin\b1\f
 Dialogue: 1,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1151.999,948)\fnCabin\b1\fs100\c&H916052&\3c&H916052&\bord7\blur1.2\frz356\fax-0.1\fsp4}Party
 Dialogue: 2,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1151.999,948)\fnCabin\b1\fs100\c&H5E847E&\bord0\blur1.2\frz356\fax-0.1\fsp4}Party
 Comment: 0,0:19:17.13,0:19:19.63,Signs,sign,0,0,0,,# Reserved
-Dialogue: 0,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\pos(1093.333,702.667)\fnBottix\fs55\c&HC4C4C2&\1a&HFE&\blur0.575\xshad2\yshad3\4c&H3B3E3E&\4a&H0E&}Reserved\Ntoday\N\N\N\NNozomi
-Dialogue: 1,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\pos(1093.333,702.667)\fnBottix\fs55\c&HC4C4C2&\blur0.7}Reserved\Ntoday\N\N\N\NNozomi
+Dialogue: 0,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\fnBottix\fs55\c&HC4C4C2&\1a&HFE&\blur0.575\xshad2\yshad3\4c&H3B3E3E&\4a&H0E&\pos(1095,620)}Reserved\Ntoday
+Dialogue: 1,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\fnBottix\fs55\c&HC4C4C2&\blur0.8\pos(1095,620)}Reserved\Ntoday
+Dialogue: 0,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\fnBottix\fs55\c&HC4C4C2&\1a&HFE&\blur0.575\xshad2\yshad3\4c&H3B3E3E&\4a&H0E&\pos(1095.333,804.667)}Nozomi
+Dialogue: 1,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\fnBottix\fs55\c&HC4C4C2&\blur0.8\pos(1095.333,804.667)}Nozomi
 Comment: 0,0:19:34.31,0:19:37.57,Signs,sign,0,0,0,,# Happy
 Dialogue: 0,0:19:34.31,0:19:34.44,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1\fax0.07\fs96\c&H0963D3&\1a&HFE&\4c&H0963D3&\fnChartIt\shad0.000001\iclip(m 1348 330 b 1364 329 1364 332 1370 338 1379 335 1370 337 1380 337 1384 327 1393 319 1408 316 1445 310 1476 406 1473 433 l 1413 511 1137 402 b 1176 344 1250 310 1335 342)}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H57EA84&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H6EF3FB&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H67F59F&\xshad-15\yshad25}P
 Dialogue: 0,0:19:34.44,0:19:34.56,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1\fax0.07\fs96\c&H0963D3&\1a&HFE&\4c&H0963D3&\fnChartIt\shad0.000001\iclip(m 1348 330 b 1364 329 1364 332 1370 338 1379 335 1370 337 1380 337 1384 327 1393 319 1408 316 1445 310 1476 406 1473 433 l 1413 511 1137 402 b 1176 344 1250 310 1335 342)}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H57EA84&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H6EF3FB&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H67F59F&\xshad-14\yshad-2}P
