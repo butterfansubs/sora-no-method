@@ -411,8 +411,8 @@ Dialogue: 1,0:01:03.16,0:01:04.45,Signs,,0,0,0,,{\pos(962.7,626.271)\frz-2\fnBAM
 Dialogue: 1,0:01:03.16,0:01:04.45,Signs,,0,0,0,,{\pos(967.2,627.771)\fnBAM It's Andrea!\fs180\fscy110\blur1.05\c&HD18D6E&\frz2.456}Method
 Comment: 0,0:02:30.58,0:02:35.75,Signs,sign,0,0,0,,# Title
 Dialogue: 0,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(869.5,773.545)\fad(860,0)\fnIwata Maru Gothic Pro M-Kami\fs97.5\bord2.7\3c&H111111&\c&H111111&\blur0.75\1a&HFF&\t(815,860,\1a&H00&)\b1}One More Wish of Mine
-Dialogue: 0,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(869.5,773.545)\fad(860,0)\fnIwata Maru Gothic Pro M-Kami\fs97.5\bord0\c&HFFFFFF&\blur0.9\b1}One More Wish of Mine
-Dialogue: 0,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(1107.334,787.905)\fad(860,0)\p1\blur0.9\c&HC6AF5C&\fscx64\fscy64}m 0 0 b 0 0 0 0 0 0 b -31.5 -1.5 -51 12 -48 13.5 b -51 28.5 36 30 61.5 30 b 141 30 174 19.5 169.5 10.5 b 168 0 138 -1.5 120 -3 b 138 3 144 9 144 10.5 b 148.5 19.5 99 22.5 61.5 22.5 b 18 22.5 -28.5 19.5 -25.5 12 b -21 4.5 -10.5 3 -1.5 0
+Dialogue: 1,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(869.5,773.545)\fad(860,0)\fnIwata Maru Gothic Pro M-Kami\fs97.5\bord0\c&HFFFFFF&\blur0.9\b1}One More Wish of Mine
+Dialogue: 2,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(1107.334,787.905)\fad(860,0)\p1\blur0.9\c&HC6AF5C&\fscx64\fscy64}m 0 0 b 0 0 0 0 0 0 b -31.5 -1.5 -51 12 -48 13.5 b -51 28.5 36 30 61.5 30 b 141 30 174 19.5 169.5 10.5 b 168 0 138 -1.5 120 -3 b 138 3 144 9 144 10.5 b 148.5 19.5 99 22.5 61.5 22.5 b 18 22.5 -28.5 19.5 -25.5 12 b -21 4.5 -10.5 3 -1.5 0
 Comment: 0,0:03:32.27,0:03:33.52,Signs,sign,0,0,0,,# Nozomi tea house
 Dialogue: 0,0:03:32.27,0:03:33.52,Signs,,0,0,0,,{\pos(804.571,621.143)\fs70\fay0.053\fax0.021\c&HD1CDD0&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)}NOZOMI{\fs30}\N\N\N\N{\fs70}TEA HOUSE AND EATERY\h\h\h\h\h\h
 Comment: 0,0:08:32.78,0:08:33.53,Signs,sign,0,0,0,,# First snow
@@ -431,180 +431,180 @@ Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\pos(1104,204)\fnMarker SD\fs96
 Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\pos(1636,708)\fnMarker SD\fs96\c&H091212&\1a&H38&\frz353.9\b1\blur1}1 year's supply!!
 Comment: 0,0:14:09.95,0:14:11.16,Signs,sign,0,0,0,,# Flyer 1
 Dialogue: 0,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(1082.667,460)\fnPaper Johnny Eins\fs88\frz5.884\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(1082.667,460)\fnPaper Johnny Eins\fs88\frz5.884\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(1082.667,460)\fnPaper Johnny Eins\fs88\frz5.884\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(760.001,713.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz26.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(760.001,713.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(760.001,713.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(760.001,713.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(760.001,713.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(1085.667,462)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(1085.667,462)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(1085.667,462)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(768.001,715.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz26.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(768.001,715.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(768.001,715.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(768.001,715.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:10.07,0:14:10.20,Signs,,0,0,0,,{\pos(768.001,715.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(1090.667,455)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(1090.667,455)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(1090.667,455)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(773.001,708.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz26.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(773.001,708.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(773.001,708.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(773.001,708.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:10.20,0:14:10.32,Signs,,0,0,0,,{\pos(773.001,708.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(1096.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(1096.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(1096.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(779.001,694.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz26.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(779.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(779.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(779.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz26.6\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:10.32,0:14:10.45,Signs,,0,0,0,,{\pos(779.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz26.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(1093.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(1093.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(1093.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax-0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz27.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:10.45,0:14:10.57,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(1090.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax0.03\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(1090.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax0.03\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(1090.667,441)\fnPaper Johnny Eins\fs88\frz5.884\fax0.03\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz27.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:10.57,0:14:10.70,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(1072,449)\fnPaper Johnny Eins\fs88\frz5.884\fax0.1\fay0.02\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(1072,449)\fnPaper Johnny Eins\fs88\frz5.884\fax0.1\fay0.02\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(1072,449)\fnPaper Johnny Eins\fs88\frz5.884\fax0.1\fay0.02\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz27.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:10.70,0:14:10.87,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(1069.333,457)\fnPaper Johnny Eins\fs88\frz5.884\fay0.01\fax0.2\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(1069.333,457)\fnPaper Johnny Eins\fs88\frz5.884\fax0.2\fay0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(1069.333,457)\fnPaper Johnny Eins\fs88\frz5.884\fax0.2\fay0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz27.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:10.87,0:14:11.03,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
 Dialogue: 0,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(1066.666,462.333)\fnPaper Johnny Eins\fs88\frz5.884\fay0.01\fax0.2\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
-Dialogue: 0,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(1066.666,462.333)\fnPaper Johnny Eins\fs88\frz5.884\fax0.2\fay0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
+Dialogue: 1,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(1066.666,462.333)\fnPaper Johnny Eins\fs88\frz5.884\fax0.2\fay0.01\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
 Dialogue: 0,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9DA0EC&\bord1\3c&H55525D&\3a&H49&\blur1.5\frz27.12\1a&HFF&}Go home{\bord0.8}!!
-Dialogue: 0,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
-Dialogue: 0,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
+Dialogue: 1,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H9EA1EF&\frz27.12\3c&H302F34&\3a&H2D&\blur2}Go home!!
+Dialogue: 2,0:14:11.03,0:14:11.16,Signs,,0,0,0,,{\pos(776.001,694.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord1.5\3c&H55525D&\3a&H3A&\blur1\frz27.12\1a&HFF&}Go home{\bord1.2}!!
 Comment: 0,0:14:14.87,0:14:18.67,Signs,sign,0,0,0,,# Flyer 2
 Dialogue: 0,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1926.096,252)\fnPaper Johnny Eins\fs88\c&H86E2E4&\blur2.5\3c&H4B4968&\3a&H1E&\frz305.3}Oppose the disc
-Dialogue: 0,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1926.096,252)\fnPaper Johnny Eins\fs88\c&H86E2E4&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz305.3}Oppose the disc
-Dialogue: 0,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1926.096,252)\fnPaper Johnny Eins\fs88\c&H86E2E4&\blur1.5\3c&H4B4968&\3a&H1E&\frz305.3}Oppose the disc
+Dialogue: 1,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1926.096,252)\fnPaper Johnny Eins\fs88\c&H86E2E4&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz305.3}Oppose the disc
+Dialogue: 2,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1926.096,252)\fnPaper Johnny Eins\fs88\c&H86E2E4&\blur1.5\3c&H4B4968&\3a&H1E&\frz305.3}Oppose the disc
 Dialogue: 0,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1540.572,117.905)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz320.3}Go home!!
-Dialogue: 0,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1540.572,117.905)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz320.3}Go home{\bord1.5}!!
-Dialogue: 0,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1540.572,117.905)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz320.3}Go home!!
+Dialogue: 1,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1540.572,117.905)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz320.3}Go home{\bord1.5}!!
+Dialogue: 2,0:14:14.87,0:14:14.99,Signs,,0,0,0,,{\pos(1540.572,117.905)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz320.3}Go home!!
 Dialogue: 0,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1766.096,335)\fnPaper Johnny Eins\fs88\c&H70E3E5&\blur2.5\3c&H4B4968&\3a&H1E&\frz305.3}Oppose the disc
-Dialogue: 0,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1766.096,335)\fnPaper Johnny Eins\fs88\c&H70E3E5&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz305.3}Oppose the disc
-Dialogue: 0,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1766.096,335)\fnPaper Johnny Eins\fs88\c&H70E3E5&\blur1.5\3c&H4B4968&\3a&H1E&\frz305.3}Oppose the disc
+Dialogue: 1,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1766.096,335)\fnPaper Johnny Eins\fs88\c&H70E3E5&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz305.3}Oppose the disc
+Dialogue: 2,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1766.096,335)\fnPaper Johnny Eins\fs88\c&H70E3E5&\blur1.5\3c&H4B4968&\3a&H1E&\frz305.3}Oppose the disc
 Dialogue: 0,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1387.286,192.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz316.7}Go home!!
-Dialogue: 0,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1387.286,192.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz316.7}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1387.286,192.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz316.7}Go home!!
+Dialogue: 1,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1387.286,192.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz316.7}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.00,0:14:15.12,Signs,,0,0,0,,{\pos(1387.286,192.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz316.7}Go home!!
 Dialogue: 0,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1564.81,486)\fnPaper Johnny Eins\fs88\c&H61E1E0&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3}Oppose the disc
-Dialogue: 0,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1564.81,486)\fnPaper Johnny Eins\fs88\c&H61E1E0&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3}Oppose the disc
-Dialogue: 0,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1564.81,486)\fnPaper Johnny Eins\fs88\c&H61E1E0&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3}Oppose the disc
+Dialogue: 1,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1564.81,486)\fnPaper Johnny Eins\fs88\c&H61E1E0&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3}Oppose the disc
+Dialogue: 2,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1564.81,486)\fnPaper Johnny Eins\fs88\c&H61E1E0&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3}Oppose the disc
 Dialogue: 0,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1227.143,280.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7}Go home!!
-Dialogue: 0,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1227.143,280.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1227.143,280.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7}Go home!!
+Dialogue: 1,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1227.143,280.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.12,0:14:15.25,Signs,,0,0,0,,{\pos(1227.143,280.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7}Go home!!
 Dialogue: 0,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1516.81,526)\fnPaper Johnny Eins\fs84\fsp-1\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1516.81,526)\fnPaper Johnny Eins\fs84\fsp-1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1516.81,526)\fnPaper Johnny Eins\fs84\fsp-1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 1,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1516.81,526)\fnPaper Johnny Eins\fs84\fsp-1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 2,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1516.81,526)\fnPaper Johnny Eins\fs84\fsp-1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
 Dialogue: 0,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1174.143,317.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7}Go home!!
-Dialogue: 0,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1174.143,317.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1174.143,317.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7}Go home!!
+Dialogue: 1,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1174.143,317.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.25,0:14:15.37,Signs,,0,0,0,,{\pos(1174.143,317.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7}Go home!!
 Dialogue: 0,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1461.143,556)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\fsp-1\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
-Dialogue: 0,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1461.143,556)\fnPaper Johnny Eins\fs80\fsp-1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.02}Oppose the disc
-Dialogue: 0,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1461.143,556)\fnPaper Johnny Eins\fs80\fsp-1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
+Dialogue: 1,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1461.143,556)\fnPaper Johnny Eins\fs80\fsp-1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.02}Oppose the disc
+Dialogue: 2,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1461.143,556)\fnPaper Johnny Eins\fs80\fsp-1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
 Dialogue: 0,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1128.143,360.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7}Go home!!
-Dialogue: 0,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1128.143,360.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1128.143,360.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7}Go home!!
+Dialogue: 1,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1128.143,360.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.37,0:14:15.50,Signs,,0,0,0,,{\pos(1128.143,360.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7}Go home!!
 Dialogue: 0,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1409.81,574)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
-Dialogue: 0,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1409.81,574)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.02}Oppose the disc
-Dialogue: 0,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1409.81,574)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
+Dialogue: 1,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1409.81,574)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.02}Oppose the disc
+Dialogue: 2,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1409.81,574)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
 Dialogue: 0,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1080.477,368.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7\fax-0.05}Go home!!
-Dialogue: 0,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1080.477,368.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.05}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1080.477,368.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.05}Go home!!
+Dialogue: 1,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1080.477,368.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.05}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.50,0:14:15.62,Signs,,0,0,0,,{\pos(1080.477,368.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.05}Go home!!
 Dialogue: 0,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1367.81,593.333)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
-Dialogue: 0,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1367.81,593.333)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.02}Oppose the disc
-Dialogue: 0,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1367.81,593.333)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
+Dialogue: 1,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1367.81,593.333)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.02}Oppose the disc
+Dialogue: 2,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1367.81,593.333)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.02}Oppose the disc
 Dialogue: 0,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1042.476,378.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7\fax-0.2}Go home!!
-Dialogue: 0,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1042.476,378.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.2}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1042.476,378.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.2}Go home!!
+Dialogue: 1,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1042.476,378.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.2}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.62,0:14:15.75,Signs,,0,0,0,,{\pos(1042.476,378.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.2}Go home!!
 Dialogue: 0,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1338.477,593)\fnPaper Johnny Eins\fs80\fsp0.6c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.01}Oppose the disc
-Dialogue: 0,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1338.477,593)\fnPaper Johnny Eins\fs80\fsp0.6\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.01}Oppose the disc
-Dialogue: 0,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1338.477,593)\fnPaper Johnny Eins\fs80\fsp0.6\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.01}Oppose the disc
+Dialogue: 1,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1338.477,593)\fnPaper Johnny Eins\fs80\fsp0.6\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05\fay0.01}Oppose the disc
+Dialogue: 2,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1338.477,593)\fnPaper Johnny Eins\fs80\fsp0.6\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05\fay0.01}Oppose the disc
 Dialogue: 0,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7\fax-0.3\fay0.02}Go home!!
-Dialogue: 0,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.3\fay0.02}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.3\fay0.02}Go home!!
+Dialogue: 1,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.3\fay0.02}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.75,0:14:15.87,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.3\fay0.02}Go home!!
 Dialogue: 0,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1319.81,582)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1319.81,582)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1319.81,582)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 1,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1319.81,582)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 2,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1319.81,582)\fnPaper Johnny Eins\fs80\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
 Dialogue: 0,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7\fax-0.4\fay0.02}Go home!!
-Dialogue: 0,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.4\fay0.02}Go home{\bord1.5}!!
-Dialogue: 0,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.4\fay0.02}Go home!!
+Dialogue: 1,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.4\fay0.02}Go home{\bord1.5}!!
+Dialogue: 2,0:14:15.87,0:14:16.00,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.4\fay0.02}Go home!!
 Dialogue: 0,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1311.477,608.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1311.477,608.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1311.477,608.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 1,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1311.477,608.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 2,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1311.477,608.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
 Dialogue: 0,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7\fax-0.4\fay0.08}Go home!!
-Dialogue: 0,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.4\fay0.08}Go home{\bord1.5}!!
-Dialogue: 0,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.4\fay0.08}Go home!!
+Dialogue: 1,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.4\fay0.08}Go home{\bord1.5}!!
+Dialogue: 2,0:14:16.00,0:14:16.12,Signs,,0,0,0,,{\pos(1019.143,381)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.4\fay0.08}Go home!!
 Dialogue: 0,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1298.477,638.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1298.477,638.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
-Dialogue: 0,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1298.477,638.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 1,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1298.477,638.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.05}Oppose the disc
+Dialogue: 2,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1298.477,638.667)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.05}Oppose the disc
 Dialogue: 0,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1005.809,402.333)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\frz303.7\fax-0.4\fay0.08}Go home!!
-Dialogue: 0,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1005.809,402.333)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.4\fay0.08}Go home{\bord1.5}!!
-Dialogue: 0,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1005.809,402.333)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.4\fay0.08}Go home!!
+Dialogue: 1,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1005.809,402.333)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\frz303.7\fax-0.4\fay0.08}Go home{\bord1.5}!!
+Dialogue: 2,0:14:16.12,0:14:16.25,Signs,,0,0,0,,{\pos(1005.809,402.333)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\frz303.7\fax-0.4\fay0.08}Go home!!
 Dialogue: 0,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1308.477,657)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.2}Oppose the disc
-Dialogue: 0,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1308.477,657)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.2}Oppose the disc
-Dialogue: 0,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1308.477,657)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.2}Oppose the disc
+Dialogue: 1,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1308.477,657)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.2}Oppose the disc
+Dialogue: 2,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1308.477,657)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.2}Oppose the disc
 Dialogue: 0,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1013.809,413.001)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.5\fay0.1\frz304.4}Go home!!
-Dialogue: 0,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1013.809,413.001)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.5\fay0.1\frz304.4}Go home{\bord1.5}!!
-Dialogue: 0,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1013.809,413.001)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.5\fay0.1\frz304.4}Go home!!
+Dialogue: 1,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1013.809,413.001)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.5\fay0.1\frz304.4}Go home{\bord1.5}!!
+Dialogue: 2,0:14:16.25,0:14:16.37,Signs,,0,0,0,,{\pos(1013.809,413.001)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.5\fay0.1\frz304.4}Go home!!
 Dialogue: 0,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1310.477,670)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25}Oppose the disc
-Dialogue: 0,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1310.477,670)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25}Oppose the disc
-Dialogue: 0,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1310.477,670)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25}Oppose the disc
+Dialogue: 1,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1310.477,670)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25}Oppose the disc
+Dialogue: 2,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1310.477,670)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25}Oppose the disc
 Dialogue: 0,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.55\fay0.1\frz304.4}Go home!!
-Dialogue: 0,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.55\fay0.1\frz304.4}Go home{\bord1.5}!!
-Dialogue: 0,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.55\fay0.1\frz304.4}Go home!!
+Dialogue: 1,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.55\fay0.1\frz304.4}Go home{\bord1.5}!!
+Dialogue: 2,0:14:16.37,0:14:17.41,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.55\fay0.1\frz304.4}Go home!!
 Dialogue: 0,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.02}Oppose the disc
-Dialogue: 0,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.02}Oppose the disc
-Dialogue: 0,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.02}Oppose the disc
+Dialogue: 1,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.02}Oppose the disc
+Dialogue: 2,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.02}Oppose the disc
 Dialogue: 0,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.45\fay0.1\frz304.4}Go home!!
-Dialogue: 0,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.45\fay0.1\frz304.4}Go home{\bord1.5}!!
-Dialogue: 0,0:14:17.41,0:14:17.46,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.45\fay0.1\frz304.4}Go home!!
+Dialogue: 1,0:14:17.41,0:14:17.54,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.45\fay0.1\frz304.4}Go home{\bord1.5}!!
+Dialogue: 2,0:14:17.41,0:14:17.46,Signs,,0,0,0,,{\pos(1016.476,415.668)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.45\fay0.1\frz304.4}Go home!!
 Dialogue: 0,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.04}Oppose the disc
-Dialogue: 0,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.04}Oppose the disc
-Dialogue: 0,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.04}Oppose the disc
+Dialogue: 1,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.04}Oppose the disc
+Dialogue: 2,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1326.477,686)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.04}Oppose the disc
 Dialogue: 0,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1024.476,413.001)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.45\fay0.13\frz304.4}Go home!!
-Dialogue: 0,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1024.476,413.001)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.45\fay0.13\frz304.4}Go home{\bord1.5}!!
-Dialogue: 0,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1024.476,413.001)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.45\fay0.13\frz304.4}Go home!!
+Dialogue: 1,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1024.476,413.001)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.45\fay0.13\frz304.4}Go home{\bord1.5}!!
+Dialogue: 2,0:14:17.54,0:14:17.66,Signs,,0,0,0,,{\pos(1024.476,413.001)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.45\fay0.13\frz304.4}Go home!!
 Dialogue: 0,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1398.477,718)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.04}Oppose the disc
-Dialogue: 0,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1398.477,718)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.04}Oppose the disc
-Dialogue: 0,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1398.477,718)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.04}Oppose the disc
+Dialogue: 1,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1398.477,718)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.04}Oppose the disc
+Dialogue: 2,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1398.477,718)\fnPaper Johnny Eins\fs80\fsp2\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.04}Oppose the disc
 Dialogue: 0,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1088.809,426.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.45\fay0.13\frz304.4}Go home!!
-Dialogue: 0,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1088.809,426.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.45\fay0.13\frz304.4}Go home{\bord1.5}!!
-Dialogue: 0,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1088.809,426.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.45\fay0.13\frz304.4}Go home!!
+Dialogue: 1,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1088.809,426.334)\fnBrownBagLunch\fs130\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.45\fay0.13\frz304.4}Go home{\bord1.5}!!
+Dialogue: 2,0:14:17.66,0:14:17.79,Signs,,0,0,0,,{\pos(1088.809,426.334)\fnBrownBagLunch\fs130\c&HB1B1EE&\1a&H80&\blur8\fax-0.45\fay0.13\frz304.4}Go home!!
 Dialogue: 0,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1427.477,688)\fnPaper Johnny Eins\fs80\fsp3\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.08}Oppose the disc
-Dialogue: 0,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1427.477,688)\fnPaper Johnny Eins\fs80\fsp3\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.08}Oppose the disc
-Dialogue: 0,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1427.477,688)\fnPaper Johnny Eins\fs80\fsp3\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.08}Oppose the disc
+Dialogue: 1,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1427.477,688)\fnPaper Johnny Eins\fs80\fsp3\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.08}Oppose the disc
+Dialogue: 2,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1427.477,688)\fnPaper Johnny Eins\fs80\fsp3\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.08}Oppose the disc
 Dialogue: 0,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1125.476,413.001)\fnBrownBagLunch\fs115\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home!!
-Dialogue: 0,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1125.476,413.001)\fnBrownBagLunch\fs115\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home{\bord1.5}!!
-Dialogue: 0,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1125.476,413.001)\fnBrownBagLunch\fs115\c&HB1B1EE&\1a&H80&\blur8\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home!!
+Dialogue: 1,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1125.476,413.001)\fnBrownBagLunch\fs115\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home{\bord1.5}!!
+Dialogue: 2,0:14:17.79,0:14:17.91,Signs,,0,0,0,,{\pos(1125.476,413.001)\fnBrownBagLunch\fs115\c&HB1B1EE&\1a&H80&\blur8\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home!!
 Dialogue: 0,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1456.81,690.667)\fnPaper Johnny Eins\fs80\fsp3.5\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.11}Oppose the disc
-Dialogue: 0,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1456.81,690.667)\fnPaper Johnny Eins\fs80\fsp3.5\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.11}Oppose the disc
-Dialogue: 0,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1456.81,690.667)\fnPaper Johnny Eins\fs80\fsp3.5\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.11}Oppose the disc
+Dialogue: 1,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1456.81,690.667)\fnPaper Johnny Eins\fs80\fsp3.5\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.25\fay0.11}Oppose the disc
+Dialogue: 2,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1456.81,690.667)\fnPaper Johnny Eins\fs80\fsp3.5\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.25\fay0.11}Oppose the disc
 Dialogue: 0,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1149.476,423.668)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home!!
-Dialogue: 0,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1149.476,423.668)\fnBrownBagLunch\fs110\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home{\bord1.5}!!
-Dialogue: 0,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1149.476,423.668)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home!!
+Dialogue: 1,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1149.476,423.668)\fnBrownBagLunch\fs110\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home{\bord1.5}!!
+Dialogue: 2,0:14:17.91,0:14:18.29,Signs,,0,0,0,,{\pos(1149.476,423.668)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-0.5\fay0.13\frz304.4\frx0\fry358}Go home!!
 Dialogue: 0,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1502.477,685.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.6\fay0.21}Oppose the disc
-Dialogue: 0,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1502.477,685.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.6\fay0.21}Oppose the disc
-Dialogue: 0,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1502.477,685.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.6\fay0.21}Oppose the disc
+Dialogue: 1,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1502.477,685.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.6\fay0.21}Oppose the disc
+Dialogue: 2,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1502.477,685.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.6\fay0.21}Oppose the disc
 Dialogue: 0,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1216.476,389.334)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.75\fay0.2\frz304.4\frx0\fry358}Go home!!
-Dialogue: 0,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1216.476,389.334)\fnBrownBagLunch\fs110\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.75\fay0.2\frz304.4\frx0\fry358}Go home{\bord1.5}!!
-Dialogue: 0,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1216.476,389.334)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-0.75\fay0.2\frz304.4\frx0\fry358}Go home!!
+Dialogue: 1,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1216.476,389.334)\fnBrownBagLunch\fs110\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.75\fay0.2\frz304.4\frx0\fry358}Go home{\bord1.5}!!
+Dialogue: 2,0:14:18.29,0:14:18.42,Signs,,0,0,0,,{\pos(1216.476,389.334)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-0.75\fay0.2\frz304.4\frx0\fry358}Go home!!
 Dialogue: 0,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1502.477,677.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.6\fay0.21}Oppose the disc
-Dialogue: 0,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1502.477,677.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.6\fay0.21}Oppose the disc
-Dialogue: 0,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1502.477,677.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.6\fay0.21}Oppose the disc
+Dialogue: 1,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1502.477,677.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\frz296.3\fax-0.6\fay0.21}Oppose the disc
+Dialogue: 2,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1502.477,677.334)\fnPaper Johnny Eins\fs80\fsp1\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\frz296.3\fax-0.6\fay0.21}Oppose the disc
 Dialogue: 0,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1221.476,378.334)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-0.85\fay0.2\frz304.4\frx0\fry358}Go home!!
-Dialogue: 0,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1221.476,378.334)\fnBrownBagLunch\fs110\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.85\fay0.2\frz304.4\frx0\fry358}Go home{\bord1.5}!!
-Dialogue: 0,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1221.476,378.334)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-0.85\fay0.2\frz304.4\frx0\fry358}Go home!!
+Dialogue: 1,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1221.476,378.334)\fnBrownBagLunch\fs110\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-0.85\fay0.2\frz304.4\frx0\fry358}Go home{\bord1.5}!!
+Dialogue: 2,0:14:18.42,0:14:18.54,Signs,,0,0,0,,{\pos(1221.476,378.334)\fnBrownBagLunch\fs110\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-0.85\fay0.2\frz304.4\frx0\fry358}Go home!!
 Dialogue: 0,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1593.143,557.001)\fnPaper Johnny Eins\fs50\fsp6\c&H5DDFE3&\blur2.5\3c&H4B4968&\3a&H1E&\fax-1\fay0.39\frx8\fry7\frz302.8}Oppose {\fs60}the {\fs70}disc
-Dialogue: 0,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1593.143,557.001)\fnPaper Johnny Eins\fs50\fsp6\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\fax-1\fay0.39\frx8\fry8\frz302.8}Oppose {\fs60}the {\fs70}disc
-Dialogue: 0,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1593.143,557.001)\fnPaper Johnny Eins\fs50\fsp6\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\fax-1\fay0.39\frx8\fry8\frz302.8}Oppose {\fs60}the {\fs70}disc
+Dialogue: 1,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1593.143,557.001)\fnPaper Johnny Eins\fs50\fsp6\c&H5DDFE3&\bord2.5\blur1\3c&H4B4968&\3a&H1E&\1a&HFF&\fax-1\fay0.39\frx8\fry8\frz302.8}Oppose {\fs60}the {\fs70}disc
+Dialogue: 2,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1593.143,557.001)\fnPaper Johnny Eins\fs50\fsp6\c&H5DDFE3&\blur1.5\3c&H4B4968&\3a&H1E&\fax-1\fay0.39\frx8\fry8\frz302.8}Oppose {\fs60}the {\fs70}disc
 Dialogue: 0,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1344.809,290.668)\fnBrownBagLunch\fs96\fsp-2\c&HB1B1EE&\3c&H302F34&\3a&H2D&\blur1\fax-1.3\fay0.2\frz304.4\frx0\fry358}Go home!!
-Dialogue: 0,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1344.809,290.668)\fnBrownBagLunch\fs96\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-1.3\fay0.2\frz304.4\frx0\fry358}Go home{\bord1.5}!!
-Dialogue: 0,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1344.809,290.668)\fnBrownBagLunch\fs96\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-1.3\fay0.2\frz304.4\frx0\fry358}Go home!!
+Dialogue: 1,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1344.809,290.668)\fnBrownBagLunch\fs96\fsp-2\c&H5A6379&\bord2\3c&H55525D&\3a&H3A&\blur1\1a&HFF&\fax-1.3\fay0.2\frz304.4\frx0\fry358}Go home{\bord1.5}!!
+Dialogue: 2,0:14:18.54,0:14:18.67,Signs,,0,0,0,,{\pos(1344.809,290.668)\fnBrownBagLunch\fs96\fsp-2\c&HB1B1EE&\1a&H80&\blur8\fax-1.3\fay0.2\frz304.4\frx0\fry358}Go home!!
 Comment: 0,0:17:29.81,0:17:32.82,Signs,sign,0,0,0,,# Poster
 Dialogue: 0,0:17:29.81,0:17:32.82,Signs,,0,0,0,,{\an7\fnBrush455 BT\fs60\fay0.2\fax-0.1\c&H8468C5&\3c&H97D5C9&\bord3\blur0.8\xshad2\yshad5\4c&H5E5043&\fscx127.503\fscy127.503\t(\fscx100\fscy100)\move(704,-13.333,757.333,105.333,0,2991)}Lake Kiriya\N{\c&H5E5043&}Hot Springs Hotel\N\N\N\N\N\N\N\N\N\N\N\N\N{\blur1\bord0.8\3c&H5A443B&\c&H8CE7DA&\fnDejaVu Serif\b1\xshad4\4c&H5A443B&}Voucher
-Dialogue: 0,0:17:29.81,0:17:32.82,Signs,,0,0,0,,{\an7\fnBrush455 BT\fs60\fay0.2\fax-0.1\c&H8468C5&\3c&H97D5C9&\blur1\4c&H5E5043&\fscx127.503\fscy127.503\t(\fscx100\fscy100)\move(704,-13.333,757.333,105.333,0,2991)}Lake Kiriya\N{\c&H5E5043&}Hot Springs Hotel\N\N\N\N\N\N\N\N\N\N\N\N\N{\3c&H5E5043&\c&H8CE7DA&\fnDejaVu Serif\b1}Voucher
+Dialogue: 1,0:17:29.81,0:17:32.82,Signs,,0,0,0,,{\an7\fnBrush455 BT\fs60\fay0.2\fax-0.1\c&H8468C5&\3c&H97D5C9&\blur1\4c&H5E5043&\fscx127.503\fscy127.503\t(\fscx100\fscy100)\move(704,-13.333,757.333,105.333,0,2991)}Lake Kiriya\N{\c&H5E5043&}Hot Springs Hotel\N\N\N\N\N\N\N\N\N\N\N\N\N{\3c&H5E5043&\c&H8CE7DA&\fnDejaVu Serif\b1}Voucher
 Comment: 0,0:17:38.20,0:17:39.62,Signs,sign,0,0,0,,# Consolation Prize
 Dialogue: 0,0:17:38.20,0:17:38.32,Signs,,0,0,0,,{\pos(888,140)\fnTimes New Roman\fs60\b1\c&H5A4848&\fay-0.118\fax0.2\blur1}Consolation Prize
 Dialogue: 0,0:17:38.32,0:17:38.45,Signs,,0,0,0,,{\pos(896,124)\fnTimes New Roman\fs60\b1\c&H5A4848&\fay-0.118\fax0.2\blur1}Consolation Prize
@@ -620,19 +620,19 @@ Dialogue: 0,0:17:39.45,0:17:39.57,Signs,,0,0,0,,{\pos(936,98)\fnTimes New Roman\
 Dialogue: 0,0:17:39.57,0:17:39.62,Signs,,0,0,0,,{\pos(896,124)\fnTimes New Roman\fs60\b1\c&H5A4848&\fay-0.118\fax0.2\blur1}Consolation Prize
 Comment: 0,0:17:47.75,0:17:49.75,Signs,sign,0,0,0,,# Hotel
 Dialogue: 0,0:17:47.75,0:17:49.75,Signs,,0,0,0,,{\pos(960,540)\fnDejaVu Sans\fs90\b1\fax\fay-0.265\yshad-14.5\c&H948DA7&\4c&H141925&\4a&H38&\blur4\1a&HFE&}Lake {\fs92}Kiriya Hot {\fs94}Springs {\fs96}Hotel
-Dialogue: 0,0:17:47.75,0:17:49.75,Signs,,0,0,0,,{\pos(960,540)\fnDejaVu Sans\fs90\b1\fax\fay-0.26\yshad4\xshad4\blur1.5\3c&H5D84A0&\c&H908297&\4c&H34445B&}Lake {\c&H918AA3&\4c&H364359&\4a&H00&\fs92}Kiriya {\c&H857387&\4c&H46586C&}H{\c&H764138&\4c&H2F1D1A&}ot {\c&H797A9B&\4c&H46586C&\fs94}Sp{\c&H7C7D9D&\4c&H385675&\4a&H00&\fs94}rings {\fs96}Hotel
+Dialogue: 1,0:17:47.75,0:17:49.75,Signs,,0,0,0,,{\pos(960,540)\fnDejaVu Sans\fs90\b1\fax\fay-0.26\yshad4\xshad4\blur1.5\3c&H5D84A0&\c&H908297&\4c&H34445B&}Lake {\c&H918AA3&\4c&H364359&\4a&H00&\fs92}Kiriya {\c&H857387&\4c&H46586C&}H{\c&H764138&\4c&H2F1D1A&}ot {\c&H797A9B&\4c&H46586C&\fs94}Sp{\c&H7C7D9D&\4c&H385675&\4a&H00&\fs94}rings {\fs96}Hotel
 Comment: 0,0:18:33.59,0:18:35.59,Signs,sign,0,0,0,,# Planetarium
 Dialogue: 0,0:18:33.59,0:18:35.59,Signs,,0,0,0,,{\pos(992.001,412.001)\fnBlambot Pro Lite\fs140\fsp15\b1\fay0.195\fax-0.4\bord5\3c&HFDFCF7&\c&H84A4FD&\blur1}P{\c&H8BFFFB&}LA{\c&H8CFEA6&}NE{\c&HE4FE7B&}TA{\c&HEF8F98&}RI{\c&HF97EFC&}U{\c&H4842FC&}M
-Dialogue: 0,0:18:33.59,0:18:35.59,Signs,,0,0,0,,{\pos(992.001,412.001)\fnBlambot Pro Lite\fs140\fsp15\b1\fay0.195\fax-0.4\bord0\3c&HFDFCF7&\c&H84A4FD&\blur2.5}P{\c&H8BFFFB&}LA{\c&H8CFEA6&}NE{\c&HE4FE7B&}TA{\c&HEF8F98&}RI{\c&HF97EFC&}U{\c&H4842FC&}M
+Dialogue: 1,0:18:33.59,0:18:35.59,Signs,,0,0,0,,{\pos(992.001,412.001)\fnBlambot Pro Lite\fs140\fsp15\b1\fay0.195\fax-0.4\bord0\3c&HFDFCF7&\c&H84A4FD&\blur2.5}P{\c&H8BFFFB&}LA{\c&H8CFEA6&}NE{\c&HE4FE7B&}TA{\c&HEF8F98&}RI{\c&HF97EFC&}U{\c&H4842FC&}M
 Comment: 0,0:19:02.87,0:19:05.87,Signs,sign,0,0,0,,# Invitation 1
 Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(163.999,430.667)\fnCandela\b1\fs70\c&HA27283&\3c&HC2B4A2&\bord8\blur1\frz335\fax-0.1}You're\Ninvited
 Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1170.666,345.333)\fnCandela\b1100\fs100\c&HA6925F&\3c&HC2B4A2&\bord12\blur1\frz1.086\fax-0.1\fsp4}Noel{\c&HA97489&\bord8}'s             {\c&H699175&\bord12}Birthday
-Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1170.666,345.333)\fnCandela\b1100\fs100\c&HA6925F&\3c&HA2644F&\bord4\blur1\fax-0.1\fsp4\frz1.086}Noel{\c&HA97489&\3c&HC2B4A2&}'s             {\c&H699175&\3c&H7D6583&}Birthday
+Dialogue: 1,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1170.666,345.333)\fnCandela\b1100\fs100\c&HA6925F&\3c&HA2644F&\bord4\blur1\fax-0.1\fsp4\frz1.086}Noel{\c&HA97489&\3c&HC2B4A2&}'s             {\c&H699175&\3c&H7D6583&}Birthday
 Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1151.999,948)\fnCabin\b1100\fs100\c&HA6925F&\3c&HC2B4A2&\bord12\blur1\frz356\fax-0.1\fsp4}Party
-Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1151.999,948)\fnCabin\b1100\fs100\c&H5E847E&\3c&H916052&\bord4\blur1\frz356\fax-0.1\fsp4}Party
+Dialogue: 1,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1151.999,948)\fnCabin\b1100\fs100\c&H5E847E&\3c&H916052&\bord4\blur1\frz356\fax-0.1\fsp4}Party
 Comment: 0,0:19:17.13,0:19:19.63,Signs,sign,0,0,0,,# Reserved
 Dialogue: 0,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\pos(1093.333,702.667)\fnBottix\fs55\c&HC4C4C2&\1a&HFE&\blur0.575\xshad2\yshad3\4c&H3B3E3E&\4a&H0E&}Reserved\Ntoday\N\N\N\NNozomi
-Dialogue: 0,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\pos(1093.333,702.667)\fnBottix\fs55\c&HC4C4C2&\blur0.7}Reserved\Ntoday\N\N\N\NNozomi
+Dialogue: 1,0:19:17.13,0:19:19.63,Signs,,0,0,0,,{\pos(1093.333,702.667)\fnBottix\fs55\c&HC4C4C2&\blur0.7}Reserved\Ntoday\N\N\N\NNozomi
 Comment: 0,0:19:34.31,0:19:37.57,Signs,sign,0,0,0,,# Happy
 Dialogue: 0,0:19:34.31,0:19:34.44,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1\fax0.07\fs96\c&H0963D3&\1a&HFE&\4c&H0963D3&\fnChartIt\shad0.000001\iclip(m 1348 330 b 1364 329 1364 332 1370 338 1379 335 1370 337 1380 337 1384 327 1393 319 1408 316 1445 310 1476 406 1473 433 l 1413 511 1137 402 b 1176 344 1250 310 1335 342)}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H57EA84&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H6EF3FB&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H67F59F&\xshad-15\yshad25}P
 Dialogue: 0,0:19:34.44,0:19:34.56,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1\fax0.07\fs96\c&H0963D3&\1a&HFE&\4c&H0963D3&\fnChartIt\shad0.000001\iclip(m 1348 330 b 1364 329 1364 332 1370 338 1379 335 1370 337 1380 337 1384 327 1393 319 1408 316 1445 310 1476 406 1473 433 l 1413 511 1137 402 b 1176 344 1250 310 1335 342)}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H57EA84&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H6EF3FB&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H67F59F&\xshad-14\yshad-2}P
@@ -651,31 +651,31 @@ Dialogue: 0,0:19:36.19,0:19:36.32,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1
 Dialogue: 0,0:19:36.32,0:19:37.57,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1\fax0.07\fs96\c&H0963D3&\1a&HFE&\4c&H0963D3&\fnChartIt\shad0.000001}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H57EA84&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H6EF3FB&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H67F59F&\yshad-128\xshad6}P
 Comment: 0,0:19:46.83,0:19:49.83,Signs,sign,0,0,0,,# Phone
 Dialogue: 0,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H767676&\1a&HFE&\bord5\blur3\3c&H070707&\frz359.8\fnOpen Sans\b1\1a&HFE&\move(770.668,958.665,770.668,427.998,22,2983)}Souta
-Dialogue: 0,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H767676&\3c&H070707&\blur0.5\frz359.8\fnOpen Sans\b1\1a&H20&\move(770.668,958.665,770.668,427.998,22,2983)}Souta
+Dialogue: 1,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H767676&\3c&H070707&\blur0.5\frz359.8\fnOpen Sans\b1\1a&H20&\move(770.668,958.665,770.668,427.998,22,2983)}Souta
 Comment: 0,0:19:57.55,0:19:59.55,Signs,sign,0,0,0,,# Invitation 2
 Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(620.965,587.795)\fnCandela\b1\fs70\c&HBE66CE&\3c&HF2F0EE&\bord8\blur1\fax-0.1\fscx60\fscy60\frz17.45\clip(m 627 524 b 635 565 637 589 658 634 l 699 598 679 514)}You're\Ninvited
 Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1100\fs100\c&HE1D27C&\3c&HF2F0EE&\bord12\blur1\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noel{\c&HE674DD&\bord8}'s             {\c&H59DEB6&\bord12}Birthday
-Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1100\fs100\c&HE1D27C&\3c&HDD5F55&\bord4\blur1\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noel{\c&HE674DD&\3c&HF2F0EE&}'s             {\c&H59DEB6&\3c&H8359E3&}Birthday
+Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1100\fs100\c&HE1D27C&\3c&HDD5F55&\bord4\blur1\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noel{\c&HE674DD&\3c&HF2F0EE&}'s             {\c&H59DEB6&\3c&H8359E3&}Birthday
 Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&HA6925F&\3c&HF2F0EE&\bord12\blur1\fax-0.1\fsp4\fscx60\fscy60\frz23.31}Party
-Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&H58CFDF&\3c&HDC635D&\bord4\blur1fax-0.1\fsp4\fscx60\fscy60\frz23.31}Party
+Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&H58CFDF&\3c&HDC635D&\bord4\blur1fax-0.1\fsp4\fscx60\fscy60\frz23.31}Party
 Comment: 0,0:21:17.33,0:21:20.21,Signs,sign,0,0,0,,# Nozomi Tea House and Eatery
 Dialogue: 0,0:21:17.33,0:21:20.21,Signs,,0,0,0,,{\pos(804.571,621.143)\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)}NOZOMI{\fs30}\N\N\N\N{\fs70}TEA HOUSE AND EATERY\h\h\h\h\h\h
 Comment: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,# Cake 1
 Dialogue: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an1\pos(0,288)\c&HDAE9EC&\p1\blur3}m 643 407 l 726 360 756 350 810 341 838 336 846 310 924 293 999 390 941 451 731 505 671 523 639 595 597 577
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an1\pos(0,288)\c&HE8F3F5&\p1\blur25}m 643 407 l 726 360 756 350 810 341 838 336 846 310 924 293 999 390 941 451 731 505 671 523 639 595 597 577
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Bas,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\bord1.5\blur0.5}Noel
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Base fill,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\blur3}Noel
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Dark shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\4c&H9A8655&\fay-0.37\fax0.3\blur5\xshad-6\yshad6\1a&HFE&\4a&H14&}Noel
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Light shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\4c&HFFFEF6&\fay-0.37\fax0.3\blur5\xshad6\yshad-6\1a&HFE&\4a&H14&}Noel
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Mid fill,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\blur13\1a&H14&}Noel
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Outline,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\bord1.5\blur3\1a&HFF&}Noel
+Dialogue: 1,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an1\pos(0,288)\c&HE8F3F5&\p1\blur25}m 643 407 l 726 360 756 350 810 341 838 336 846 310 924 293 999 390 941 451 731 505 671 523 639 595 597 577
+Dialogue: 2,0:24:21.23,0:24:23.48,Signs,Bas,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\bord1.5\blur0.5}Noel
+Dialogue: 3,0:24:21.23,0:24:23.48,Signs,Base fill,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\blur3}Noel
+Dialogue: 4,0:24:21.23,0:24:23.48,Signs,Dark shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\4c&H9A8655&\fay-0.37\fax0.3\blur5\xshad-6\yshad6\1a&HFE&\4a&H14&}Noel
+Dialogue: 5,0:24:21.23,0:24:23.48,Signs,Light shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\4c&HFFFEF6&\fay-0.37\fax0.3\blur5\xshad6\yshad-6\1a&HFE&\4a&H14&}Noel
+Dialogue: 6,0:24:21.23,0:24:23.48,Signs,Mid fill,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\blur13\1a&H14&}Noel
+Dialogue: 7,0:24:21.23,0:24:23.48,Signs,Outline,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\bord1.5\blur3\1a&HFF&}Noel
 Dialogue: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an5\pos(234.483,90.252)\p1\c&HE3EFF2&\blur2}m 1020 587 l 1124 583 1133 639 1186 626 1189 592 1274 559 1323 534 1335 506 1402 592 1457 597 1422 661 1316 724 1167 762 1134 802 1112 825 1081 821 1005 740 994 648
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Base,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&H9A96B6&\fay-0.37\fax0.8\bord1.5\blur0.5}Carol
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Base fill,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&HB9AE82&\fay-0.37\fax0.8\blur3}Carol
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Dark shadow,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\4c&H7A74C9&\fay-0.37\fax0.8\blur5\xshad-6\yshad6\1a&HFE&\4a&H14&}Carol
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Light shadow,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\4c&HF3F3FF&\fay-0.37\fax0.8\blur5\xshad6\yshad-6\1a&HFE&\4a&H14&}Carol
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Mid fill,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&HB9AE82&\fay-0.37\fax0.8\blur13\1a&H14&}Carol
-Dialogue: 0,0:24:21.23,0:24:23.48,Signs,Outline,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&H9A96B6&\fay-0.37\fax0.8\bord1.5\blur3\1a&HFF&}Carol
+Dialogue: 1,0:24:21.23,0:24:23.48,Signs,Base,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&H9A96B6&\fay-0.37\fax0.8\bord1.5\blur0.5}Carol
+Dialogue: 2,0:24:21.23,0:24:23.48,Signs,Base fill,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&HB9AE82&\fay-0.37\fax0.8\blur3}Carol
+Dialogue: 3,0:24:21.23,0:24:23.48,Signs,Dark shadow,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\4c&H7A74C9&\fay-0.37\fax0.8\blur5\xshad-6\yshad6\1a&HFE&\4a&H14&}Carol
+Dialogue: 4,0:24:21.23,0:24:23.48,Signs,Light shadow,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\4c&HF3F3FF&\fay-0.37\fax0.8\blur5\xshad6\yshad-6\1a&HFE&\4a&H14&}Carol
+Dialogue: 5,0:24:21.23,0:24:23.48,Signs,Mid fill,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&HB9AE82&\fay-0.37\fax0.8\blur13\1a&H14&}Carol
+Dialogue: 6,0:24:21.23,0:24:23.48,Signs,Outline,0,0,0,,{\pos(1160.869,753.914)\fnWickenden Cafe NDP\fs160\b1\c&HC6C4ED&\3c&H9A96B6&\fay-0.37\fax0.8\bord1.5\blur3\1a&HFF&}Carol
 Comment: 0,0:26:56.30,0:29:14.60,Signs,sign,0,0,0,,# Happy Birthday
 Dialogue: 0,0:26:56.30,0:26:58.80,Signs,,0,0,0,,{\an7\pos(351.999,178.666)\blur1\fax0.07\fs86\c&H0963D3&\1a&HFE&\4c&H0E82EE&\4a&H28&\fnChartIt\shad0.000001}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H4AECA2&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H82FAFD&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H4BF599&\yshad-18}P\h\h\h\h{\yshad18\4c&H558AF1&}Y\N\N\N\N\N\N\h\h\h\h\h\h{\yshad120\4c&H3419EA&\xshad4\fax0.1}B\h\h\h\h\h\h\h\h\h{\fax0.07\yshad265\4c&H1080E8&}IR\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\fax0.05\yshad294\4c&H6041F6&}TH\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad96\4c&H1AE1F3&\fax0.1\xshad-5}DA\h\h{\yshad60\4c&H0661E7&}Y
 Dialogue: 0,0:29:11.97,0:29:12.56,Signs,,0,0,0,,{\an7\pos(351.999,178.666)\blur1\fax0.07\fs86\c&H0963D3&\1a&HFE&\4c&H0E82EE&\4a&H28&\fnChartIt\shad0.000001}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H4AECA2&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H82FAFD&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H4BF599&\yshad-18}P\h\h\h\h{\yshad18\4c&H558AF1&}Y\N\N\N\N\N\N\h\h\h\h\h\h{\yshad120\4c&H3419EA&\xshad4\fax0.1}B\h\h\h\h\h\h\h\h\h{\fax0.07\yshad265\4c&H1080E8&}IR\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\fax0.05\yshad294\4c&H6041F6&}TH\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad96\4c&H1AE1F3&\fax0.1\xshad-5}DA\h\h{\yshad60\4c&H0661E7&}Y
@@ -699,19 +699,19 @@ Dialogue: 0,0:29:14.35,0:29:14.48,Signs,,0,0,0,,{\an7\pos(351.999,178.666)\blur1
 Dialogue: 0,0:29:14.48,0:29:14.60,Signs,,0,0,0,,{\an7\pos(351.999,178.666)\blur1\fax0.07\fs86\c&H0963D3&\1a&HFE&\4c&H0E82EE&\4a&H28&\fnChartIt\shad0.000001\iclip(m 420 310 1408 833 b 1411 814 1422 780 1425 762 l 1405 779 b 1399 803 1383 843 1369 864 m 934 1066)}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H4AECA2&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H82FAFD&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H4BF599&\yshad-18}P\h\h\h\h{\yshad18\4c&H558AF1&}Y\N\N\N\N\N\N\h\h\h\h\h\h{\yshad120\4c&H3419EA&\xshad4\fax0.1}B\h\h\h\h\h\h\h\h\h{\fax0.07\yshad265\4c&H1080E8&}IR\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\fax0.05\yshad294\4c&H6041F6&}TH\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad96\4c&H1AE1F3&\fax0.1\xshad-5}DA\h\h{\yshad60\4c&H0661E7&}Y
 Comment: 0,0:29:25.03,0:29:28.07,Signs,sign,0,0,0,,# Cake 2
 Dialogue: 0,0:29:25.03,0:29:28.07,Signs,,0,0,0,,{\an1\pos(0,288)\c&H000000&\p1\blur3\alpha&HA0&\t(0,817,\alpha&H00&\c&HC8E7F6&)}m 643 407 l 726 353 756 343 810 341 838 336 846 310 924 293 999 390 941 440 731 505 671 523 639 595 597 577
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Base,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&HB7CAB4&\3c&H8FA28D&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.3\bord1.5\blur0.5}Noel
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Base fill,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&HB7CAB4&\3c&H8FA28D&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.3\blur3}Noel
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Dark shadow,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\fnWickenden Cafe NDP\fs160\b1\c&H000000&\4c&H000000&\fay-0.37\fax0.3\blur5\xshad-4\yshad4\1a&HFE&\4a&HFF&\t(0,817,\alpha&H00&\1a&HFE&\4a&H14&\c&HB7CAB4&\4c&H96A792&)}Noel
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Light shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&H000000&\4c&H000000&\fay-0.37\fax0.3\blur5\xshad4\yshad-4\1a&HFE&\4a&HFF&\t(0,817,\1a&HFE&\4a&H14&\c&HB7CAB4&\4c&HC0D5CA&)}Noel
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Mid fill,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\fnWickenden Cafe NDP\fs160\b1\c&H000000&\3c&H000000&\fay-0.37\fax0.3\blur13\1a&HFF&\t(0,817,\alpha&H00&\1a&H14&\c&HB7CAB4&\3c&H8FA28D&)}Noel
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Outline,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\fnWickenden Cafe NDP\fs160\b1\c&H000000&\3c&H000000&\fay-0.37\fax0.3\bord1.5\blur4\1a&HFF&\t(0,817,\alpha&H00&\1a&HFF&\c&HB7CAB4&\3c&H8FA28D&)}Noel
+Dialogue: 1,0:29:25.03,0:29:28.07,Signs,Base,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&HB7CAB4&\3c&H8FA28D&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.3\bord1.5\blur0.5}Noel
+Dialogue: 2,0:29:25.03,0:29:28.07,Signs,Base fill,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&HB7CAB4&\3c&H8FA28D&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.3\blur3}Noel
+Dialogue: 3,0:29:25.03,0:29:28.07,Signs,Dark shadow,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\fnWickenden Cafe NDP\fs160\b1\c&H000000&\4c&H000000&\fay-0.37\fax0.3\blur5\xshad-4\yshad4\1a&HFE&\4a&HFF&\t(0,817,\alpha&H00&\1a&HFE&\4a&H14&\c&HB7CAB4&\4c&H96A792&)}Noel
+Dialogue: 4,0:29:25.03,0:29:28.07,Signs,Light shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&H000000&\4c&H000000&\fay-0.37\fax0.3\blur5\xshad4\yshad-4\1a&HFE&\4a&HFF&\t(0,817,\1a&HFE&\4a&H14&\c&HB7CAB4&\4c&HC0D5CA&)}Noel
+Dialogue: 5,0:29:25.03,0:29:28.07,Signs,Mid fill,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\fnWickenden Cafe NDP\fs160\b1\c&H000000&\3c&H000000&\fay-0.37\fax0.3\blur13\1a&HFF&\t(0,817,\alpha&H00&\1a&H14&\c&HB7CAB4&\3c&H8FA28D&)}Noel
+Dialogue: 6,0:29:25.03,0:29:28.07,Signs,Outline,0,0,0,,{\pos(785.133,480.169)\alpha&HFF&\fnWickenden Cafe NDP\fs160\b1\c&H000000&\3c&H000000&\fay-0.37\fax0.3\bord1.5\blur4\1a&HFF&\t(0,817,\alpha&H00&\1a&HFF&\c&HB7CAB4&\3c&H8FA28D&)}Noel
 Dialogue: 0,0:29:25.03,0:29:28.07,Signs,,0,0,0,,{\an5\pos(234.483,90.252)\p1\c&H000000&\blur2\alpha&HA0&\t(0,817,\alpha&H00&\c&HC8E7F6&)}m 1020 587 l 1124 583 1133 639 1186 626 1189 592 1274 559 1323 534 1370 512 1412 592 1490 580 1490 600 1422 661 1316 724 1167 762 1134 802 1112 825 1081 821 1005 740 1000 648
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Base,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\bord1.5\blur0.5}Carol
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Base fill,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur3}Carol
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Dark shadow,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\4c&H000000&\\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur5\xshad-3\yshad3\1a&HFE&\4a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\4c&H5869B4&\1a&HFE&\4a&H14&)}Carol
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Light shadow,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\4c&H000000&\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur5\xshad3\yshad-3\1a&HFE&\4a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\4c&HA1BCEE&\1a&HFE&\4a&H14&)}Carol
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Mid fill,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur13\1a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&\1a&H14&)}Carol
-Dialogue: 0,0:29:25.03,0:29:28.07,Signs,Outline,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\bord1.5\blur4\1a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&\1a&HFF&)}Carol
+Dialogue: 1,0:29:25.03,0:29:28.07,Signs,Base,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\bord1.5\blur0.5}Carol
+Dialogue: 2,0:29:25.03,0:29:28.07,Signs,Base fill,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&)\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur3}Carol
+Dialogue: 3,0:29:25.03,0:29:28.07,Signs,Dark shadow,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\4c&H000000&\\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur5\xshad-3\yshad3\1a&HFE&\4a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\4c&H5869B4&\1a&HFE&\4a&H14&)}Carol
+Dialogue: 4,0:29:25.03,0:29:28.07,Signs,Light shadow,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\4c&H000000&\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur5\xshad3\yshad-3\1a&HFE&\4a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\4c&HA1BCEE&\1a&HFE&\4a&H14&)}Carol
+Dialogue: 5,0:29:25.03,0:29:28.07,Signs,Mid fill,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\blur13\1a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&\1a&H14&)}Carol
+Dialogue: 6,0:29:25.03,0:29:28.07,Signs,Outline,0,0,0,,{\pos(1160.869,753.914)\alpha&HFF&\c&H000000&\3c&H000000&\fnWickenden Cafe NDP\fs160\b1\fay-0.37\fax0.8\bord1.5\blur4\1a&HFF&\t(0,817,\alpha&H00&\c&H8B9EE2&\3c&H6776B8&\1a&HFF&)}Carol
 Comment: 10,0:00:48.02,0:00:48.02,Default,,0,0,0,,== OP ==================================
 Dialogue: 8,0:01:11.57,0:01:18.28,OP-Rom,,0,0,0,,{\fad(150,0)\k32}{\k22\be1}ne{\k24}ga{\k24}i{\k43}go{\k48}to{\k18} {\k24}yu{\k23}re{\k20}ru {\k43}o{\k44}to{\k21} {\k44}so{\k18}tto {\k46}hi{\k47}so{\k47}me{\k76}ru{\k19}
 Dialogue: 7,0:01:11.57,0:01:18.28,OP-Rom,,0,0,0,,{\fad(150,0)\bord3.5\be4\3c&HFFFFFF&\be1}negaigoto yureru oto sotto hisomeru
