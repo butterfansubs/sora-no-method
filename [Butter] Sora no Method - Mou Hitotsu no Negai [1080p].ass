@@ -622,8 +622,8 @@ Comment: 0,0:17:47.75,0:17:49.75,Signs,sign,0,0,0,,# Hotel
 Dialogue: 0,0:17:47.75,0:17:49.75,Signs,,0,0,0,,{\pos(960,540)\fnDejaVu Sans\fs90\b1\fax\fay-0.265\yshad-14.5\c&H948DA7&\4c&H141925&\4a&H38&\blur4\1a&HFE&}Lake {\fs92}Kiriya Hot {\fs94}Springs {\fs96}Hotel
 Dialogue: 1,0:17:47.75,0:17:49.75,Signs,,0,0,0,,{\pos(960,540)\fnDejaVu Sans\fs90\b1\fax\fay-0.26\yshad4\xshad4\blur1.5\3c&H5D84A0&\c&H908297&\4c&H34445B&}Lake {\c&H918AA3&\4c&H364359&\4a&H00&\fs92}Kiriya {\c&H857387&\4c&H46586C&}H{\c&H764138&\4c&H2F1D1A&}ot {\c&H797A9B&\4c&H46586C&\fs94}Sp{\c&H7C7D9D&\4c&H385675&\4a&H00&\fs94}rings {\fs96}Hotel
 Comment: 0,0:18:33.59,0:18:35.59,Signs,sign,0,0,0,,# Planetarium
-Dialogue: 0,0:18:33.59,0:18:35.59,Signs,,0,0,0,,{\pos(992.001,412.001)\fnBlambot Pro Lite\fs140\fsp15\b1\fay0.195\fax-0.4\bord5\3c&HFDFCF7&\c&H84A4FD&\blur1}P{\c&H8BFFFB&}LA{\c&H8CFEA6&}NE{\c&HE4FE7B&}TA{\c&HEF8F98&}RI{\c&HF97EFC&}U{\c&H4842FC&}M
-Dialogue: 1,0:18:33.59,0:18:35.59,Signs,,0,0,0,,{\pos(992.001,412.001)\fnBlambot Pro Lite\fs140\fsp15\b1\fay0.195\fax-0.4\bord0\3c&HFDFCF7&\c&H84A4FD&\blur2.5}P{\c&H8BFFFB&}LA{\c&H8CFEA6&}NE{\c&HE4FE7B&}TA{\c&HEF8F98&}RI{\c&HF97EFC&}U{\c&H4842FC&}M
+Dialogue: 0,0:18:33.59,0:18:35.59,Signs,,0,0,0,,{\pos(992.001,412.001)\fnBlambot Pro Lite\fs140\fsp15\b1\fay0.195\fax-0.4\bord5\3c&HFDFCF7&\c&HFDFCF7&\blur1}PLANETARIUM
+Dialogue: 1,0:18:33.59,0:18:35.59,Signs,,0,0,0,,{\pos(992.001,412.001)\fnBlambot Pro Lite\fs140\fsp15\b1\fay0.195\fax-0.4\bord0\c&H84A4FD&\1a&H20&\blur1}P{\c&H8BFFFB&}LA{\c&H8CFEA6&}NE{\c&HE4FE7B&}TA{\c&HEF8F98&}RI{\c&HF97EFC&}U{\c&H4842FC&}M
 Comment: 0,0:19:02.87,0:19:05.87,Signs,sign,0,0,0,,# Invitation 1
 Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(163.999,430.667)\fnCandela\b1\fs70\c&HA27283&\3c&HC2B4A2&\bord8\blur1\frz335\fax-0.1}You're\Ninvited
 Dialogue: 0,0:19:02.87,0:19:05.87,Signs,,0,0,0,,{\pos(1170.666,345.333)\fnCandela\b1100\fs100\c&HA6925F&\3c&HC2B4A2&\bord12\blur1\frz1.086\fax-0.1\fsp4}Noel{\c&HA97489&\bord8}'s             {\c&H699175&\bord12}Birthday
