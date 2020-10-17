@@ -658,7 +658,7 @@ Dialogue: 0,0:19:36.07,0:19:36.19,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1
 Dialogue: 0,0:19:36.19,0:19:36.32,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1\fax0.07\fs96\c&H0963D3&\1a&HFE&\4c&H0963D3&\fnChartIt\shad0.000001}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H57EA84&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H6EF3FB&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H67F59F&\yshad-121\xshad3}P
 Dialogue: 0,0:19:36.32,0:19:37.57,Signs,,0,0,0,,{\an7\pos(234.666,141.333)\blur1\fax0.07\fs96\c&H0963D3&\1a&HFE&\4c&H0963D3&\fnChartIt\shad0.000001}H\h\h\h\h\h\h\h\h\h\h\h{\4c&H57EA84&\yshad-5}A\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\yshad0\4c&H6EF3FB&}P\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\4c&H67F59F&\yshad-128\xshad6}P
 Comment: 0,0:19:46.83,0:19:49.83,Signs,sign,0,0,0,,# Phone
-Dialogue: 0,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H767676&\1a&HFE&\bord5\blur3\3c&H070707&\frz359.8\fnOpen Sans\b1\1a&HFE&\move(770.668,958.665,770.668,427.998,22,2983)}Souta
+Dialogue: 0,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H070707&\bord5\blur3\3c&H070707&\frz359.8\fnOpen Sans\b1\move(770.668,958.665,770.668,427.998,22,2983)}Souta
 Dialogue: 1,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H767676&\3c&H070707&\blur0.5\frz359.8\fnOpen Sans\b1\1a&H20&\move(770.668,958.665,770.668,427.998,22,2983)}Souta
 Comment: 0,0:19:57.55,0:19:59.55,Signs,sign,0,0,0,,# Invitation 2
 Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(620.965,587.795)\fnCandela\b1\fs70\c&HBE66CE&\3c&HF2F0EE&\bord8\blur1\fax-0.1\fscx60\fscy60\frz17.45\clip(m 627 524 b 635 565 637 589 658 634 l 699 598 679 514)}You're\Ninvited
