@@ -414,7 +414,8 @@ Dialogue: 0,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(869.5,773.545)\fad(860,0)\
 Dialogue: 1,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(869.5,773.545)\fad(860,0)\fnIwata Maru Gothic Pro M-Kami\fs97.5\bord0\c&HFFFFFF&\blur0.9\b1}One More Wish of Mine
 Dialogue: 2,0:02:30.58,0:02:35.75,Signs,,0,0,0,,{\pos(1107.334,787.905)\fad(860,0)\p1\blur0.9\c&HC6AF5C&\fscx64\fscy64}m 0 0 b 0 0 0 0 0 0 b -31.5 -1.5 -51 12 -48 13.5 b -51 28.5 36 30 61.5 30 b 141 30 174 19.5 169.5 10.5 b 168 0 138 -1.5 120 -3 b 138 3 144 9 144 10.5 b 148.5 19.5 99 22.5 61.5 22.5 b 18 22.5 -28.5 19.5 -25.5 12 b -21 4.5 -10.5 3 -1.5 0
 Comment: 0,0:03:32.27,0:03:33.52,Signs,sign,0,0,0,,# Nozomi tea house
-Dialogue: 0,0:03:32.27,0:03:33.52,Signs,,0,0,0,,{\pos(804.571,621.143)\fs70\fay0.053\fax0.021\c&HD1CDD0&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)}NOZOMI{\fs30}\N\N\N\N{\fs70}TEA HOUSE AND EATERY\h\h\h\h\h\h
+Dialogue: 0,0:03:32.27,0:03:33.52,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)\pos(806.571,522.143)}NOZOMI
+Dialogue: 0,0:03:32.27,0:03:33.52,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\pos(756.571,722.643)}TEA HOUSE AND EATERY
 Comment: 0,0:08:32.78,0:08:33.53,Signs,sign,0,0,0,,# First snow
 Dialogue: 0,0:08:32.78,0:08:32.90,Signs,,0,0,0,,{\pos(1005.333,685.333)\fay-1\fax0.23\frz2.369\c&H34323E&\blur1\fnCabin\fs77\b1}First snow
 Dialogue: 0,0:08:32.90,0:08:33.03,Signs,,0,0,0,,{\pos(1066.667,669.333)\fay-0.58\fax0.185\frz2.369\c&H34323E&\blur1\fnCabin\fs100\b1}First snow
@@ -667,7 +668,8 @@ Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandel
 Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&HA6925F&\3c&HF2F0EE&\bord12\blur1\fax-0.1\fsp4\fscx60\fscy60\frz23.31}Party
 Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&H58CFDF&\3c&HDC635D&\bord4\blur1fax-0.1\fsp4\fscx60\fscy60\frz23.31}Party
 Comment: 0,0:21:17.33,0:21:20.21,Signs,sign,0,0,0,,# Nozomi Tea House and Eatery
-Dialogue: 0,0:21:17.33,0:21:20.21,Signs,,0,0,0,,{\pos(804.571,621.143)\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)}NOZOMI{\fs30}\N\N\N\N{\fs70}TEA HOUSE AND EATERY\h\h\h\h\h\h
+Dialogue: 0,0:21:17.33,0:21:20.21,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)\pos(806.571,522.143)}NOZOMI
+Dialogue: 0,0:21:17.33,0:21:20.21,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\pos(756.571,722.643)}TEA HOUSE AND EATERY
 Comment: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,# Cake 1
 Dialogue: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an1\pos(0,288)\c&HDAE9EC&\p1\blur3}m 643 407 l 726 360 756 350 810 341 838 336 846 310 924 293 999 390 941 451 731 505 671 523 639 595 597 577
 Dialogue: 1,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an1\pos(0,288)\c&HE8F3F5&\p1\blur25}m 643 407 l 726 360 756 350 810 341 838 336 846 310 924 293 999 390 941 451 731 505 671 523 639 595 597 577
