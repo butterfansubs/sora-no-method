@@ -417,10 +417,10 @@ Comment: 0,0:03:32.27,0:03:33.52,Signs,sign,0,0,0,,# Nozomi tea house
 Dialogue: 0,0:03:32.27,0:03:33.52,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)\pos(806.571,522.143)}NOZOMI
 Dialogue: 0,0:03:32.27,0:03:33.52,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\pos(756.571,722.643)}TEA HOUSE AND EATERY
 Comment: 0,0:08:32.78,0:08:33.53,Signs,sign,0,0,0,,# First snow
-Dialogue: 0,0:08:32.78,0:08:32.90,Signs,,0,0,0,,{\pos(1005.333,685.333)\fay-1\fax0.23\frz2.369\c&H34323E&\blur1\fnCabin\fs77\b1}First snow
-Dialogue: 0,0:08:32.90,0:08:33.03,Signs,,0,0,0,,{\pos(1066.667,669.333)\fay-0.58\fax0.185\frz2.369\c&H34323E&\blur1\fnCabin\fs100\b1}First snow
-Dialogue: 0,0:08:33.03,0:08:33.15,Signs,,0,0,0,,{\pos(1133.334,632)\fay-0.3\fax0.125\frz2.369\c&H34323E&\blur1\fnCabin\fs115\b1}First snow
-Dialogue: 0,0:08:33.15,0:08:33.53,Signs,,0,0,0,,{\pos(1200.001,613.333)\fay-0.13\fax0.125\frz2.369\c&H34323E&\blur1\fnCabin\fs130\b1}First snow
+Dialogue: 0,0:08:32.78,0:08:32.90,Signs,,0,0,0,,{\fscy100\fscx100\c&H34323E&\blur1\fnTanuki Permanent Marker\fs74\b1\frz52.62\fax-0.87\pos(1030.904,494.19)}First snow
+Dialogue: 0,0:08:32.90,0:08:33.03,Signs,,0,0,0,,{\fax-0.6\frz36.47\c&H34323E&\blur1\fnTanuki Permanent Marker\fs77\b1\pos(1100.953,541.333)}First snow
+Dialogue: 0,0:08:33.03,0:08:33.15,Signs,,0,0,0,,{\fax-0.25\frz21.22\c&H34323E&\blur1\fnTanuki Permanent Marker\fs77\b1\pos(1164.191,566.857)}First snow
+Dialogue: 0,0:08:33.15,0:08:33.53,Signs,,0,0,0,,{\fax-0.06\c&H34323E&\blur1\fnTanuki Permanent Marker\fs77\b1\frz9.158\pos(1222.859,595.048)}First snow
 Comment: 0,0:12:50.49,0:12:50.62,Signs,sign,0,0,0,,# Shione Happy Birthday
 Dialogue: 0,0:12:50.49,0:12:50.62,Signs,,0,0,0,,{\an1\pos(1109.333,533.667)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 958 -6 l 856 -2 846 32 1094 599 1114 543 876 -1)}\h\h\hShione,\N\N\NHappy Birthday!!
 Dialogue: 0,0:12:50.62,0:12:50.74,Signs,,0,0,0,,{\an1\pos(1109.333,533.667)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 1151 439 l 958 -6 856 -2 798 156 982 580 1090 608)}\h\h\hShione,\N\N\NHappy Birthday!!
