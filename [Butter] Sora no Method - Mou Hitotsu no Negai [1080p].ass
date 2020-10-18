@@ -662,11 +662,15 @@ Comment: 0,0:19:46.83,0:19:49.83,Signs,sign,0,0,0,,# Phone
 Dialogue: 0,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H070707&\bord5\blur3\3c&H070707&\frz359.8\fnOpen Sans\b1\move(770.668,958.665,770.668,427.998,22,2983)}Souta
 Dialogue: 1,0:19:46.83,0:19:49.83,Signs,,0,0,0,,{\fay-0.45\fax1.7\c&H767676&\3c&H070707&\blur0.5\frz359.8\fnOpen Sans\b1\1a&H20&\move(770.668,958.665,770.668,427.998,22,2983)}Souta
 Comment: 0,0:19:57.55,0:19:59.55,Signs,sign,0,0,0,,# Invitation 2
-Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(620.965,587.795)\fnCandela\b1\fs70\c&HBE66CE&\3c&HF2F0EE&\bord8\blur1\fax-0.1\fscx60\fscy60\frz17.45\clip(m 627 524 b 635 565 637 589 658 634 l 699 598 679 514)}You're\Ninvited
-Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1100\fs100\c&HE1D27C&\3c&HF2F0EE&\bord12\blur1\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noel{\c&HE674DD&\bord8}'s             {\c&H59DEB6&\bord12}Birthday
-Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1100\fs100\c&HE1D27C&\3c&HDD5F55&\bord4\blur1\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noel{\c&HE674DD&\3c&HF2F0EE&}'s             {\c&H59DEB6&\3c&H8359E3&}Birthday
-Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&HA6925F&\3c&HF2F0EE&\bord12\blur1\fax-0.1\fsp4\fscx60\fscy60\frz23.31}Party
-Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&H58CFDF&\3c&HDC635D&\bord4\blur1fax-0.1\fsp4\fscx60\fscy60\frz23.31}Party
+Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(620.965,587.795)\fnCandela\b1\fs70\c&HF2F0EE&\3c&HF2F0EE&\bord8\blur1\fax0.05\fscx60\fscy60\frz17.45\clip(m 627 524 b 635 565 637 589 658 634 l 699 598 679 514)}You're\Ninvited
+Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(620.965,587.795)\fnCandela\b1\fs70\c&HBE66CE&\3c&HF2F0EE&\bord0\blur1\fax0.05\fscx60\fscy60\frz17.45\clip(m 627 524 b 635 565 637 589 658 634 l 699 598 679 514)}You're\Ninvited
+Dialogue: 2,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&H000000&\1a&HC0&\blur2}m 627 524 b 631 564 634 590 651 621 l 664 617 b 656 601 636 549 627 524
+Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1\fs100\c&HF2F0EE&\3c&HF2F0EE&\bord11\blur1.2\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noel{\bord7}'s             {\bord11}Birthday
+Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1\fs100\c&HDD5F55&\3c&HDD5F55&\bord4\blur0.9\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noe{\fsp8}l{\bord0\fsp0}'{\fsp4}s             {\c&H8359E3&\3c&H8359E3&\bord4}Birthday
+Dialogue: 2,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1089.513,275.738)\fnCandela\b1\fs100\c&HE1D27C&\bord0\blur1\fax-0.1\fsp4\fscx60\fscy60\frz31.39}Noe{\fsp8}l{\c&HE674DD&\fsp0}'{\fsp4}s             {\c&H59DEB6&}Birthday
+Dialogue: 0,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&HF2F0EE&\3c&HF2F0EE&\bord11\blur1.2\fsp4\fscx60\fscy60\frz23.31}Party
+Dialogue: 1,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&HDC635D&\3c&HDC635D&\bord4\blur0.9\fsp4\fscx60\fscy60\frz23.31}Party
+Dialogue: 2,0:19:57.55,0:19:59.55,Signs,,0,0,0,,{\pos(1264.021,544.626)\fnCabin\b1100\fs100\c&H58CFDF&\3c&HDC635D&\bord0\blur0.9\fsp4\fscx60\fscy60\frz23.31}Party
 Comment: 0,0:21:17.33,0:21:20.21,Signs,sign,0,0,0,,# Nozomi Tea House and Eatery
 Dialogue: 0,0:21:17.33,0:21:20.21,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\iclip(m 629 521 l 1001 544 1000 549 629 525)\pos(806.571,522.143)}NOZOMI
 Dialogue: 0,0:21:17.33,0:21:20.21,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5CA&\blur1\pos(756.571,722.643)}TEA HOUSE AND EATERY
