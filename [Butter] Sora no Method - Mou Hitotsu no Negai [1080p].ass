@@ -432,6 +432,19 @@ Dialogue: 0,0:12:50.62,0:12:50.74,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1
 Dialogue: 0,0:12:50.74,0:12:50.87,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz72.74\clip(m 1202 298 l 1072 -3 856 -2 754 261 871 541 1090 608)\pos(1116,296)}Happy Birthday!!
 Dialogue: 0,0:12:50.87,0:12:50.99,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz72.74\clip(m 1256 162 l 1192 13 856 -2 682 424 714 485 1090 608)\pos(1116,296)}Happy Birthday!!
 Dialogue: 0,0:12:50.99,0:12:53.00,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\pos(1116,296)\frz72.74}Happy Birthday!!
+Comment: 0,0:12:53.75,0:12:55.37,Signs,sign,0,0,0,,# Shione Happy Birthday
+Dialogue: 0,0:12:53.75,0:12:53.87,Signs,,0,0,0,,{=1}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\frz-268.48\pos(1036.9,1117.79)\iclip(m 980.97 1199.77 l 1010.97 1142.77 b 1022.97 1124.77 1030.97 1131.77 1033.97 1150.77 l 1039.97 1156.77 1038.97 1230.77)}Shione,
+Dialogue: 0,0:12:53.87,0:12:54.00,Signs,,0,0,0,,{=1}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\frz-268.48\pos(1031.69,1073.34)\iclip(m 975.76 1155.32 l 1005.76 1098.32 b 1017.76 1080.32 1025.76 1087.33 1028.76 1106.33 l 1034.76 1112.32 1033.76 1186.33)}Shione,
+Dialogue: 0,0:12:54.00,0:12:54.12,Signs,,0,0,0,,{=1}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\frz-268.48\pos(1030.74,1017.2)\iclip(m 974.81 1099.18 l 1004.81 1042.18 b 1016.81 1024.18 1024.81 1031.18 1027.81 1050.18 l 1033.81 1056.18 1032.81 1130.18)}Shione,
+Dialogue: 0,0:12:54.12,0:12:54.25,Signs,,0,0,0,,{=1}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\frz-268.48\pos(1034.8,959.97)\iclip(m 978.87 1041.96 l 1008.87 984.96 b 1020.87 966.96 1028.87 973.96 1031.87 992.96 l 1037.87 998.96 1036.87 1072.96)}Shione,
+Dialogue: 0,0:12:54.25,0:12:54.37,Signs,,0,0,0,,{=1}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\frz-268.48\pos(1031.23,906.43)\iclip(m 975.3 988.41 l 1005.3 931.41 b 1017.3 913.41 1025.3 920.41 1028.3 939.41 l 1034.3 945.41 1033.3 1019.41)}Shione,
+Dialogue: 0,0:12:54.37,0:12:55.37,Signs,,0,0,0,,{=1}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\frz-268.48\pos(1026.93,847.02)\iclip(m 971 929 l 1001 872 b 1013 854 1021 861 1024 880 l 1030 886 1029 960)}Shione,
+Dialogue: 0,0:12:53.75,0:12:53.87,Signs,,0,0,0,,{=0}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\fscx100\fscy100\pos(1141.97,1098.77)\frz91.02}Happy Birthday!!
+Dialogue: 0,0:12:53.87,0:12:54.00,Signs,,0,0,0,,{=0}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\fscx100\fscy100\pos(1136.76,1054.33)\frz91.02}Happy Birthday!!
+Dialogue: 0,0:12:54.00,0:12:54.12,Signs,,0,0,0,,{=0}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\fscx100\fscy100\pos(1135.81,998.18)\frz91.02}Happy Birthday!!
+Dialogue: 0,0:12:54.12,0:12:54.25,Signs,,0,0,0,,{=0}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\fscx100\fscy100\pos(1139.87,940.96)\frz91.02}Happy Birthday!!
+Dialogue: 0,0:12:54.25,0:12:54.37,Signs,,0,0,0,,{=0}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\fscx100\fscy100\pos(1136.3,887.41)\frz91.02}Happy Birthday!!
+Dialogue: 0,0:12:54.37,0:12:55.37,Signs,,0,0,0,,{=0}{\an5\blur1.1\fnMEllybO0 fONt\b1\fs40\c&H120F0F&\1a&H28&\fscx100\fscy100\pos(1132,828)\frz91.02}Happy Birthday!!
 Comment: 0,0:12:55.37,0:12:57.88,Signs,sign,0,0,0,,# Birthday card inside
 Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\pos(1104,204)\fnMarker SD\fs96\c&H091212&\1a&H38&\frz324.6\blur1}Hot spring buns
 Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\fnMarker SD\fs96\c&H091212&\1a&H28&\fax-0.5\b1\blur1\frz355.6\pos(1673,715.334)}1 year's supply!!
@@ -833,3 +846,7 @@ Dialogue: 6,0:29:01.09,0:29:04.89,ED-Eng,,0,0,0,,{\an3\fad(200,200)}but I tell m
 Dialogue: 5,0:29:01.09,0:29:04.89,ED-Eng,,0,0,0,,{\an3\fad(200,200)\bord3.5\be3\3c&HFFFFFF&}but I tell myself that it'll all be okay
 Dialogue: 6,0:29:04.89,0:29:11.03,ED-Eng,,0,0,0,,{\an3\fad(200,200)}if I have these stars here to guide me.
 Dialogue: 5,0:29:04.89,0:29:11.03,ED-Eng,,0,0,0,,{\an3\fad(200,200)\bord3.5\be3\3c&HFFFFFF&}if I have these stars here to guide me.
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"257386a3-d59d-4733-8a48-4b10ea17b965"#2C"originalText"#3A"{\\an5\\blur1.1\\fnMEllybO0 fONt\\b1\\fs40\\c&H120F0F&\\1a&H28&\\fscx100\\fscy100\\pos(1132#2C828)\\frz91.02}Happy Birthday!!"}
+Data: 1,a-mo,e{"uuid"#3A"d9b08810-e44f-426f-be0b-831a82ea6cb9"#2C"originalText"#3A"{\\an5\\blur1.1\\fnMEllybO0 fONt\\b1\\fs40\\c&H120F0F&\\1a&H28&\\frz-268.48\\pos(1026.933#2C847.017)\\iclip(m 971 929 l 1001 872 b 1013 854 1021 861 1024 880 l 1030 886 1029 960)}Shione#2C"}
