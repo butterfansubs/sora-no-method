@@ -700,7 +700,7 @@ Dialogue: 0,0:21:17.33,0:21:20.21,Signs,,0,0,0,,{\fs70\fay0.053\fax0.021\c&HCCC5
 Comment: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,# Cake 1
 Dialogue: 0,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an1\pos(0,288)\c&HDAE9EC&\p1\blur3}m 643 407 l 726 360 756 350 810 341 838 336 846 310 924 293 999 390 941 451 731 505 671 523 639 595 597 577
 Dialogue: 1,0:24:21.23,0:24:23.48,Signs,,0,0,0,,{\an1\pos(0,288)\c&HE8F3F5&\p1\blur25}m 643 407 l 726 360 756 350 810 341 838 336 846 310 924 293 999 390 941 451 731 505 671 523 639 595 597 577
-Dialogue: 2,0:24:21.23,0:24:23.48,Signs,Bas,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\bord1.5\blur0.5}Noel
+Dialogue: 2,0:24:21.23,0:24:23.48,Signs,Base,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\bord1.5\blur0.5}Noel
 Dialogue: 3,0:24:21.23,0:24:23.48,Signs,Base fill,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\3c&HB9AE82&\fay-0.37\fax0.3\blur3}Noel
 Dialogue: 4,0:24:21.23,0:24:23.48,Signs,Dark shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\4c&H9A8655&\fay-0.37\fax0.3\blur5\xshad-6\yshad6\1a&HFE&\4a&H14&}Noel
 Dialogue: 5,0:24:21.23,0:24:23.48,Signs,Light shadow,0,0,0,,{\pos(785.133,480.169)\fnWickenden Cafe NDP\fs160\b1\c&HE2DEAA&\4c&HFFFEF6&\fay-0.37\fax0.3\blur5\xshad6\yshad-6\1a&HFE&\4a&H14&}Noel
