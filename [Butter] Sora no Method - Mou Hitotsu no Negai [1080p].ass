@@ -434,7 +434,7 @@ Dialogue: 0,0:12:50.87,0:12:50.99,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1
 Dialogue: 0,0:12:50.99,0:12:53.00,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\pos(1116,296)\frz72.74}Happy Birthday!!
 Comment: 0,0:12:55.37,0:12:57.88,Signs,sign,0,0,0,,# Birthday card inside
 Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\pos(1104,204)\fnMarker SD\fs96\c&H091212&\1a&H38&\frz324.6\blur1}Hot spring buns
-Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\pos(1636,708)\fnMarker SD\fs96\c&H091212&\1a&H38&\frz353.9\b1\blur1}1 year's supply!!
+Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\fnMarker SD\fs96\c&H091212&\1a&H28&\fax-0.5\b1\blur1\frz355.6\pos(1673,715.334)}1 year's supply!!
 Comment: 0,0:14:09.95,0:14:11.16,Signs,sign,0,0,0,,# Flyer 1
 Dialogue: 0,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(1082.667,460)\fnPaper Johnny Eins\fs88\frz5.884\c&H71E3E4&\blur1.5\3c&H42525F&\3a&H1E&}Oppose the disc
 Dialogue: 1,0:14:09.95,0:14:10.07,Signs,,0,0,0,,{\pos(1082.667,460)\fnPaper Johnny Eins\fs88\frz5.884\c&H7BE4E3&\bord2.5\blur1\3c&H4D5F6E&\3a&H22&\1a&HFF&}Oppose the disc
