@@ -422,11 +422,16 @@ Dialogue: 0,0:08:32.90,0:08:33.03,Signs,,0,0,0,,{\fax-0.6\frz36.47\c&H34323E&\bl
 Dialogue: 0,0:08:33.03,0:08:33.15,Signs,,0,0,0,,{\fax-0.25\frz21.22\c&H34323E&\blur1\fnTanuki Permanent Marker\fs77\b1\pos(1164.191,566.857)}First snow
 Dialogue: 0,0:08:33.15,0:08:33.53,Signs,,0,0,0,,{\fax-0.06\c&H34323E&\blur1\fnTanuki Permanent Marker\fs77\b1\frz9.158\pos(1222.859,595.048)}First snow
 Comment: 0,0:12:50.49,0:12:50.62,Signs,sign,0,0,0,,# Shione Happy Birthday
-Dialogue: 0,0:12:50.49,0:12:50.62,Signs,,0,0,0,,{\an1\pos(1109.333,533.667)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 958 -6 l 856 -2 846 32 1094 599 1114 543 876 -1)}\h\h\hShione,\N\N\NHappy Birthday!!
-Dialogue: 0,0:12:50.62,0:12:50.74,Signs,,0,0,0,,{\an1\pos(1109.333,533.667)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 1151 439 l 958 -6 856 -2 798 156 982 580 1090 608)}\h\h\hShione,\N\N\NHappy Birthday!!
-Dialogue: 0,0:12:50.74,0:12:50.87,Signs,,0,0,0,,{\an1\pos(1109.333,533.667)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 1202 298 l 1072 -3 856 -2 754 261 871 541 1090 608)}\h\h\hShione,\N\N\NHappy Birthday!!
-Dialogue: 0,0:12:50.87,0:12:50.99,Signs,,0,0,0,,{\an1\pos(1109.333,533.667)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 1256 162 l 1192 13 856 -2 682 424 714 485 1090 608)}\h\h\hShione,\N\N\NHappy Birthday!!
-Dialogue: 0,0:12:50.99,0:12:53.00,Signs,,0,0,0,,{\an1\pos(1109.333,533.667)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71}\h\h\hShione,\N\N\NHappy Birthday!!
+Dialogue: 0,0:12:50.49,0:12:50.62,Signs,,0,0,0,,{\an5\pos(884.933,223.017)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 958 -6 l 856 -2 846 32 1094 599 1114 543 876 -1)}Shione,
+Dialogue: 0,0:12:50.62,0:12:50.74,Signs,,0,0,0,,{\an5\pos(884.933,223.017)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 1151 439 l 958 -6 856 -2 798 156 982 580 1090 608)}Shione,
+Dialogue: 0,0:12:50.74,0:12:50.87,Signs,,0,0,0,,{\an5\pos(884.933,223.017)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 1202 298 l 1072 -3 856 -2 754 261 871 541 1090 608)}Shione,
+Dialogue: 0,0:12:50.87,0:12:50.99,Signs,,0,0,0,,{\an5\pos(884.933,223.017)\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\clip(m 1256 162 l 1192 13 856 -2 682 424 714 485 1090 608)}Shione,
+Dialogue: 0,0:12:50.99,0:12:53.00,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz73.71\pos(884.933,223.017)}Shione,
+Dialogue: 0,0:12:50.49,0:12:50.62,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz72.74\clip(m 958 -6 l 856 -2 846 32 1094 599 1114 543 876 -1)\pos(1116,296)}Happy Birthday!!
+Dialogue: 0,0:12:50.62,0:12:50.74,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz72.74\clip(m 1151 439 l 958 -6 856 -2 798 156 982 580 1090 608)\pos(1116,296)}Happy Birthday!!
+Dialogue: 0,0:12:50.74,0:12:50.87,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz72.74\clip(m 1202 298 l 1072 -3 856 -2 754 261 871 541 1090 608)\pos(1116,296)}Happy Birthday!!
+Dialogue: 0,0:12:50.87,0:12:50.99,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\frz72.74\clip(m 1256 162 l 1192 13 856 -2 682 424 714 485 1090 608)\pos(1116,296)}Happy Birthday!!
+Dialogue: 0,0:12:50.99,0:12:53.00,Signs,,0,0,0,,{\an5\blur1.1\fnMEllybO0 fONt\b1\fs104\c&H120F0F&\1a&H40&\pos(1116,296)\frz72.74}Happy Birthday!!
 Comment: 0,0:12:55.37,0:12:57.88,Signs,sign,0,0,0,,# Birthday card inside
 Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\pos(1104,204)\fnMarker SD\fs96\c&H091212&\1a&H38&\frz324.6\blur1}Hot spring buns
 Dialogue: 0,0:12:55.37,0:12:57.88,Signs,,0,0,0,,{\pos(1636,708)\fnMarker SD\fs96\c&H091212&\1a&H38&\frz353.9\b1\blur1}1 year's supply!!
