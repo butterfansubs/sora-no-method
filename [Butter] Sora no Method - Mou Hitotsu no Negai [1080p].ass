@@ -204,69 +204,69 @@ Dialogue: 10,0:12:05.12,0:12:07.12,Sora-Main,Carol,0,0,0,,Drive out Noel, drive 
 Dialogue: 10,0:12:07.12,0:12:08.12,Sora-Main,Carol,0,0,0,ED,Away from this town,
 Dialogue: 10,0:12:08.54,0:12:11.12,Sora-Main,Carol,0,0,0,,Mr. Disc, drive them out!
 Comment: 10,0:12:17.13,0:12:17.13,Sora-Main,chptr,0,0,0,,{Part B}Part B
-Dialogue: 10,0:12:22.55,0:12:24.48,Sora-Main,Koharu,0,0,0,,Noel's birthday?
-Dialogue: 10,0:12:24.48,0:12:29.62,Sora-Main,Nonoka,0,0,0,,Yeah. I figured the day\Nwe called the disc is Noel's birthday.
-Dialogue: 10,0:12:30.52,0:12:31.56,Sora-Main,Yuzuki,0,0,0,ED,Agreed!
-Dialogue: 10,0:12:32.56,0:12:35.31,Sora-Main,Yuzuki,0,0,0,,If that's the case, why don't we\Nthrow her a birthday party?
-Dialogue: 10,0:12:35.31,0:12:37.19,Sora-Main,Yuzuki,0,0,0,,We can reserve my family's restaurant.
-Dialogue: 10,0:12:37.19,0:12:39.44,Sora-Main,Koharu,0,0,0,,Don't we need permission?
-Dialogue: 10,0:12:39.44,0:12:41.07,Sora-Main,Yuzuki,0,0,0,,It's fine, it's fine!
-Dialogue: 10,0:12:41.07,0:12:43.20,Sora-Main,Yuzuki,0,0,0,,Noel is a precious family member, after all.
-Dialogue: 10,0:12:44.18,0:12:45.57,Sora-Main,Yuzuki,0,0,0,,Ah, I almost forgot!
-Dialogue: 10,0:12:45.57,0:12:47.57,Sora-Main,Yuzuki,0,0,0,,Let's invite Shione, too.
-Dialogue: 10,0:12:56.17,0:12:57.88,Sora-Main,Shione,0,0,0,,A year's supply?
-Dialogue: 10,0:12:59.75,0:13:00.68,Sora-Main,Shione,0,0,0,,Not even close.
-Comment: 10,0:13:01.63,0:13:02.63,Sora-Main,Shione,0,0,0,,Huh?
-Dialogue: 10,0:13:05.80,0:13:07.43,Sora-Main,Yuzuki,0,0,0,,Shione said she'd come!
-Dialogue: 10,0:13:07.43,0:13:08.93,Sora-Main,Koharu,0,0,0,,That was quick!
-Dialogue: 10,0:13:08.93,0:13:11.81,Sora-Main,Yuzuki,0,0,0,,By the way, should I send Souta an invitation, too?
-Dialogue: 10,0:13:12.06,0:13:13.31,Sora-Main,Nonoka,0,0,0,,Isn't he overseas?
+Dialogue: 10,0:12:22.51,0:12:24.51,Sora-Main,Koharu,0,0,0,,Noel's birthday?
+Dialogue: 10,0:12:24.51,0:12:29.73,Sora-Main,Nonoka,0,0,0,,Yeah. I figured the day\Nwe called the disc is Noel's birthday.
+Dialogue: 10,0:12:30.40,0:12:31.65,Sora-Main,Yuzuki,0,0,0,ED,Agreed!
+Dialogue: 10,0:12:32.56,0:12:35.44,Sora-Main,Yuzuki,0,0,0,,If that's the case, why don't we\Nthrow her a birthday party?
+Dialogue: 10,0:12:35.44,0:12:37.19,Sora-Main,Yuzuki,0,0,0,,We can reserve my family's restaurant.
+Dialogue: 10,0:12:37.19,0:12:39.49,Sora-Main,Koharu,0,0,0,,Don't we need permission?
+Dialogue: 10,0:12:39.49,0:12:40.99,Sora-Main,Yuzuki,0,0,0,,It's fine, it's fine!
+Dialogue: 10,0:12:40.99,0:12:43.20,Sora-Main,Yuzuki,0,0,0,,Noel is a precious family member, after all.
+Dialogue: 10,0:12:44.12,0:12:45.57,Sora-Main,Yuzuki,0,0,0,,Ah, I almost forgot!
+Dialogue: 10,0:12:45.57,0:12:47.25,Sora-Main,Yuzuki,0,0,0,,Let's invite Shione, too.
+Dialogue: 10,0:12:56.21,0:12:57.88,Sora-Main,Shione,0,0,0,,A year's supply?
+Dialogue: 10,0:12:59.63,0:13:00.67,Sora-Main,Shione,0,0,0,,Not even close.
+Comment: 10,0:13:01.64,0:13:02.63,Sora-Main,Shione,0,0,0,,Huh?
+Dialogue: 10,0:13:05.81,0:13:07.43,Sora-Main,Yuzuki,0,0,0,,Shione said she'd come!
+Dialogue: 10,0:13:07.43,0:13:08.85,Sora-Main,Koharu,0,0,0,,That was quick!
+Dialogue: 10,0:13:08.85,0:13:11.90,Sora-Main,Yuzuki,0,0,0,,By the way, should I send Souta an invitation, too?
+Dialogue: 10,0:13:11.90,0:13:13.56,Sora-Main,Nonoka,0,0,0,,Isn't he overseas?
 Dialogue: 10,0:13:13.56,0:13:17.56,Sora-Main,Koharu,0,0,0,,He should be home around then, so it should be fine.
-Dialogue: 10,0:13:17.81,0:13:21.94,Sora-Main,Nonoka,0,0,0,,That's great. Having everyone come will make Noel so happy!
-Dialogue: 10,0:13:29.66,0:13:33.20,Sora-Main,Carol,0,0,0,,L-Let's drive out the disc away from this town!
-Dialogue: 10,0:13:33.20,0:13:36.71,Sora-Main,Carol,0,0,0,,That disc cannot stay in this town!
+Dialogue: 10,0:13:17.56,0:13:21.94,Sora-Main,Nonoka,0,0,0,,That's great. Having everyone come will make Noel so happy!
+Dialogue: 10,0:13:29.71,0:13:33.20,Sora-Main,Carol,0,0,0,,L-Let's drive out the disc away from this town!
+Dialogue: 10,0:13:33.50,0:13:36.71,Sora-Main,Carol,0,0,0,,That disc cannot stay in this town!
 Dialogue: 10,0:13:36.71,0:13:38.33,Sora-Main,Extra,0,0,0,,Huh? What was that?
-Dialogue: 10,0:13:38.33,0:13:39.54,Sora-Main,Extra,0,0,0,,Disc?
-Dialogue: 10,0:13:40.34,0:13:42.09,Sora-Main,Carol,0,0,0,,Your cooperation is,
-Dialogue: 10,0:13:42.09,0:13:44.97,Sora-Main,Carol,0,0,0,,um, greatly appreciated!
-Dialogue: 10,0:13:44.97,0:13:45.98,Sora-Main,Carol,0,0,0,,Let's talk...
-Dialogue: 10,0:13:45.98,0:13:46.93,Sora-Main,Nonoka,0,0,0,,Carol...
-Dialogue: 10,0:13:46.93,0:13:49.09,Sora-Main,Yuzuki,0,0,0,,Man, I can't stand to watch this anymore!
-Dialogue: 10,0:13:49.09,0:13:51.39,Sora-Main,Yuzuki,0,0,0,,You've got to project more!
-Dialogue: 10,0:13:51.60,0:13:52.31,Sora-Main,Yuzuki,0,0,0,,Give me that!
-Dialogue: 10,0:13:52.31,0:13:52.72,Sora-Main,Carol,0,0,0,,Huh?
+Dialogue: 10,0:13:38.33,0:13:39.51,Sora-Main,Extra,0,0,0,,Disc?
+Dialogue: 10,0:13:40.42,0:13:42.05,Sora-Main,Carol,0,0,0,,Your cooperation is,
+Dialogue: 10,0:13:42.05,0:13:44.97,Sora-Main,Carol,0,0,0,,um, greatly appreciated!
+Dialogue: 10,0:13:44.97,0:13:45.97,Sora-Main,Carol,0,0,0,,Let's talk...
+Dialogue: 10,0:13:45.97,0:13:46.72,Sora-Main,Nonoka,0,0,0,,Carol...
+Dialogue: 10,0:13:46.72,0:13:49.02,Sora-Main,Yuzuki,0,0,0,,Man, I can't stand to watch this anymore!
+Dialogue: 10,0:13:49.02,0:13:51.60,Sora-Main,Yuzuki,0,0,0,,You've got to project more!
+Dialogue: 10,0:13:51.60,0:13:52.23,Sora-Main,Yuzuki,0,0,0,,Give me that!
+Comment: 10,0:13:52.23,0:13:52.72,Sora-Main,Carol,0,0,0,,Huh?
 Dialogue: 10,0:13:52.72,0:13:55.23,Sora-Main,Yuzuki,0,0,0,,Let's drive the disc away from this town!
-Dialogue: 10,0:13:55.64,0:13:58.14,Sora-Alt,Yuzuki,0,0,0,,Just like that. Oppose the disc!
-Dialogue: 10,0:13:58.82,0:14:00.62,Sora-Alt,Yuzuki,0,0,0,,You've got to do it from your diaphragm.
-Dialogue: 10,0:14:00.62,0:14:03.48,Sora-Alt,Yuzuki,0,0,0,,Oppose the disc!
-Dialogue: 10,0:13:57.42,0:14:01.86,Sora-Main,Nonoka,0,0,0,,Well then. We should stop them, shouldn't we?
-Dialogue: 10,0:14:01.86,0:14:03.98,Sora-Main,Koharu,0,0,0,,You don't say?
+Dialogue: 10,0:13:55.61,0:13:58.73,Sora-Alt,Yuzuki,0,0,0,,Just like that. Oppose the disc!
+Dialogue: 10,0:13:58.73,0:14:00.57,Sora-Alt,Yuzuki,0,0,0,,You've got to do it from your diaphragm.
+Dialogue: 10,0:14:00.57,0:14:03.45,Sora-Alt,Yuzuki,0,0,0,,Oppose the disc!
+Dialogue: 10,0:13:57.36,0:14:01.78,Sora-Main,Nonoka,0,0,0,,Well then. We should stop them, shouldn't we?
+Dialogue: 10,0:14:01.78,0:14:03.98,Sora-Main,Koharu,0,0,0,,You don't say?
 Dialogue: 10,0:14:03.98,0:14:04.78,Sora-Main,Carol,0,0,0,,What?
-Dialogue: 10,0:14:04.78,0:14:06.20,Sora-Main,Yuzuki,0,0,0,,What's your name?
-Dialogue: 10,0:14:06.20,0:14:07.50,Sora-Main,Carol,0,0,0,,C-Carol!
-Dialogue: 10,0:14:07.51,0:14:09.95,Sora-Main,Yuzuki,0,0,0,,Carol! Hand those out!
+Dialogue: 10,0:14:04.78,0:14:06.07,Sora-Main,Yuzuki,0,0,0,,What's your name?
+Dialogue: 10,0:14:06.07,0:14:07.66,Sora-Main,Carol,0,0,0,,C-Carol!
+Dialogue: 10,0:14:07.66,0:14:09.95,Sora-Main,Yuzuki,0,0,0,,Carol! Hand those out!
 Dialogue: 10,0:14:09.95,0:14:11.16,Sora-Main,Carol,0,0,0,,Yes, ma'am!
 Dialogue: 10,0:14:20.13,0:14:22.67,Sora-Main,Carol,0,0,0,,Why am I caught up in this mess?
-Dialogue: 10,0:14:22.67,0:14:24.09,Sora-Main,Carol,0,0,0,,Even this is all her fault—
-Dialogue: 10,0:14:32.62,0:14:33.18,Sora-Main,Noel,0,0,0,,Here.
-Dialogue: 10,0:14:35.06,0:14:38.48,Sora-Main,Carol,0,0,0,,And whose fault do you think this is?
-Dialogue: 10,0:14:38.60,0:14:39.76,Sora-Main,Noel,0,0,0,,I'm sorry.
-Dialogue: 10,0:14:40.15,0:14:43.59,Sora-Main,Carol,0,0,0,TLC,{### Anata ga negai wo kanaita no ni, kuzu ga zushiteru kara?}You've already granted their wishes,\Nand yet you're still spouting nonsense? {TN: "You've already granted their wishes, yet you're still spouting trash?"(?)}
-Dialogue: 10,0:14:44.50,0:14:47.00,Sora-Main,Noel,0,0,0,,That's what I thought at first, too.
-Dialogue: 10,0:14:47.88,0:14:51.80,Sora-Main,Noel,0,0,0,,"With this, Nonoka and her \Nfriends' wishes are granted."
+Dialogue: 10,0:14:22.67,0:14:24.25,Sora-Main,Carol,0,0,0,,Even this is all her fault—
+Dialogue: 10,0:14:32.52,0:14:33.18,Sora-Main,Noel,0,0,0,,Here.
+Dialogue: 10,0:14:35.10,0:14:37.98,Sora-Main,Carol,0,0,0,,And whose fault do you think this is?
+Dialogue: 10,0:14:38.61,0:14:40.11,Sora-Main,Noel,0,0,0,,I'm sorry.
+Dialogue: 10,0:14:40.11,0:14:43.74,Sora-Main,Carol,0,0,0,TLC,{### Anata ga negai wo kanaita no ni, kuzu ga zushiteru kara?}You've already granted their wishes,\Nand yet you're still spouting nonsense? {TN: "You've already granted their wishes, yet you're still spouting trash?"(?)}
+Dialogue: 10,0:14:44.53,0:14:46.99,Sora-Main,Noel,0,0,0,,That's what I thought at first, too.
+Dialogue: 10,0:14:47.61,0:14:52.08,Sora-Main,Noel,0,0,0,,"With this, Nonoka and her \Nfriends' wishes are granted."
 Dialogue: 10,0:14:52.62,0:14:53.53,Sora-Main,Noel,0,0,0,,But...
-Dialogue: 10,0:14:57.50,0:15:00.29,Sora-Main,Nonoka,0,0,0,,This is about the wishes Noel granted for us, right?
-Dialogue: 10,0:15:01.25,0:15:05.50,Sora-Main,Nonoka,0,0,0,ED,Noel's smile... if she isn't happy,\Nshe can't grant wishes. {TN: alternatively, "Noel's smile... if she isn't happy, it would be unbearable."}
-Dialogue: 10,0:15:06.88,0:15:08.48,Sora-Main,Carol,0,0,0,,I don't get it at all.
-Dialogue: 10,0:15:09.13,0:15:10.88,Sora-Main,Nonoka,0,0,0,,Then, her disc...
-Dialogue: 10,0:15:10.88,0:15:13.60,Sora-Main,Carol,0,0,0,,What are you saying? I don't understand any of it!
-Dialogue: 10,0:15:13.60,0:15:15.24,Sora-Main,Yuzuki,0,0,0,,Hey, get back here!
-Dialogue: 10,0:15:14.97,0:15:16.42,Sora-Main,Koharu,0,0,0,,Dear customer...
-Dialogue: 10,0:15:19.68,0:15:21.50,Sora-Main,Noel,0,0,0,,Carol! Mr. Monster!
-Dialogue: 10,0:15:22.52,0:15:23.77,Sora-Main,Carol,0,0,0,,I'm sorry.
-Dialogue: 10,0:15:23.77,0:15:24.78,Sora-Main,Nonoka,0,0,0,,Are you okay?
-Dialogue: 10,0:15:29.65,0:15:32.08,Sora-Main,Carol,0,0,0,,I'm sorry!
-Dialogue: 10,0:15:36.62,0:15:37.70,Sora-Main,Noel,0,0,0,,It's okay.
+Dialogue: 10,0:14:57.54,0:15:00.46,Sora-Main,Nonoka,0,0,0,,This is about the wishes Noel granted for us, right?
+Dialogue: 10,0:15:01.30,0:15:05.72,Sora-Main,Nonoka,0,0,0,ED,Noel's smile... if she isn't happy,\Nshe can't grant wishes. {TN: alternatively, "Noel's smile... if she isn't happy, it would be unbearable."}
+Dialogue: 10,0:15:06.89,0:15:08.64,Sora-Main,Carol,0,0,0,,I don't get it at all.
+Dialogue: 10,0:15:09.05,0:15:10.93,Sora-Main,Nonoka,0,0,0,,Then, her disc...
+Dialogue: 10,0:15:10.93,0:15:13.60,Sora-Main,Carol,0,0,0,,What are you saying? I don't understand any of it!
+Dialogue: 10,0:15:13.60,0:15:14.85,Sora-Main,Yuzuki,0,0,0,,Hey, get back here!
+Dialogue: 10,0:15:14.85,0:15:16.31,Sora-Main,Koharu,0,0,0,,Dear customer...
+Dialogue: 10,0:15:19.61,0:15:21.61,Sora-Main,Noel,0,0,0,,Carol! Mr. Monster!
+Dialogue: 10,0:15:22.53,0:15:23.82,Sora-Main,Carol,0,0,0,,I'm sorry.
+Dialogue: 10,0:15:23.82,0:15:24.99,Sora-Main,Nonoka,0,0,0,,Are you okay?
+Dialogue: 10,0:15:29.53,0:15:31.99,Sora-Main,Carol,0,0,0,,I'm sorry!
+Dialogue: 10,0:15:36.58,0:15:37.92,Sora-Main,Noel,0,0,0,,It's okay.
 Dialogue: 10,0:15:58.14,0:15:59.31,Sora-Main,Koharu,0,0,0,,Good work, you two.
 Dialogue: 10,0:16:10.26,0:16:11.49,Sora-Main,Carol,0,0,0,,It's sweet!
 Dialogue: 10,0:16:14.98,0:16:16.00,Sora-Main,Carol,0,0,0,,This is bitter.
